@@ -1,0 +1,13 @@
+//= Slachtoffers in NEI
+//pow_nei
+
+.POW NEI < aug. 1945
+[cols="~,~,~",%autowidth]
+|===
+|Geinterneerden	|Totaal	|Omgekomen
+
+|Koninklijke Marine	|3.847	|648
+|KNIL	|36.869	|7.552
+|KNIL hulpcorpsen	|1.517	 |300
+>|Totaal | 42.233 | 8.498
+|===
