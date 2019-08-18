@@ -65,6 +65,8 @@ Het steekt, zwak gezegd, dat de periode augustus 1945 - 1950 niet meetelt bij de
 "_Misschien moeten we wat ruimer kijken dan slechts het tijdvenster van een mensenleven, willen we het historische perpectief behouden_"footnote:[wouter - {ref3}]. +
 //"_Ik denk dat het pas vanaf de onbelaste 4e generatie zal lukken om aan beide zijden de feiten en gebeurtenissen zo goed mogelijk in het juiste perspectief te (willen) zien en te plaatsen_".footnote:[eppeson marawasin - {ref1}]
 
+<<<<
+
 == De data
 [big]#Voor de - eerste generatie -  Indische Nederlanders is naast de Japanse bezetting ook de periode augustus 1945 - 1950 een periode met opnieuw slachtoffers die niet vergeten mogen worden#. 
 
@@ -87,7 +89,7 @@ Het is een feit dat https://www.roelbazuin.nl/blog/herdenking.html[de eerste Ned
 
 Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbereidingen om Nederlands-Indië weer aan https://www.roelbazuin.nl/blog/zwijgen.html#grondgebied_de_staat_en_de_koloni%C3%ABn[de lijst overzeese gebiedsdelen^] toe te voegen. Dan heb je grote pech wanneer je als Indo KNIL soldaat, net bevrijdt uit een Jappenkamp, in naam van koningin en vaderland moet meehelpen je voormalige buren, collega's en vrienden om zeep te helpen. 
 
-
+<<<<
 
 == Aantallen
 Naast data, periodes en daarmee samenhangende vergeten gebeurtenissen, zijn aantallen slachtoffers al decennia lang onderwerp van discussie. Eveneens als het gaat om 'Nederlands-Indië'.
@@ -105,34 +107,15 @@ De UN rapporteert dat er in totaal 4 miljoen mensen gestorven zijn door honger e
 Hoeveel daarvan Nederlands staatsburger waren, is onbekend. 
 Veel japanse stukken / kamp-administratie is verloren gegaan.
 
-.Slachtoffers in NEI
-[cols="~,~,~,~,width=60%]
-|===
-|Nation 	|Army Killed/ missing 	|Army Prisoners of war 	|Civilian deaths
+include::../includes/victims_nei.adoc[]
 
-|Netherlands East Indies |8.498^a^ |42.233^b^ |4.000.000^c^
-|===
-
-a. exclusief militaire slachtoffers van de periode tussen 15 augustus 1945 en 1 januari 1963, waaronder het conflict om Nieuw-Guinea in 1962. Totaal 6.177 (Kolonel b.d. J.W. de Leeuw)
-b. Zie tabel 2
-c. John W. Dower cites a UN report that estimated 4 million famine and forced labor dead during the Japanese Occupation of Indonesia. footnote:[http://taggedwiki.zubiaga.org/new_content/aba9a8abfeb7dd614e31d47fed78aa0d] +
-“The total number who were killed by the Japanese, or who died from, hunger, disease and lack of medical attention is estimated at 3,000,000 for Java alone, 1,000,000 for the Outer Islands. Altogether [underline]#35,000 of the 240,000 Europeans# died; most of them were men of working age.” +
-The Dutch Red Cross reported the deaths in Japanese custody of [underline]#14,800 European civilians# out of 80,000 interned.
 
 === Militaire slachtoffers
 
 Heveel soldaten zijn gesneuveld tijdens de Japanse aanval, is mij niet bekend. Er is een redelijke concensus over het aantal krijgsgevangenen en het aantal slachtoffers.
 
-.Krijgsgevangenen NEI tot aug. 1945
-[cols="~,~,~",width=60%]
-|===
-|Geinterneerden	|Totaal	|Omgekomen
+include::../includes/pow_nei.adoc[]
 
-|Koninklijke Marine	|3.847	|648
-|KNIL	|36.869	|7.552
-|KNIL hulpcorpsen	|1.517	 |300
->|Totaal | 42.233 | 8.498
-|===
 
 === Burgerslachtoffers
 
