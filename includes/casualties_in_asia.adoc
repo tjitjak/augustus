@@ -1,0 +1,50 @@
+= Casualties in Asia and the Pacific by nation and type
+.
+2019-08-15
+:author_name: Familie Bastiaans - de Indische takken
+:author: Roel Bazuin
+//
+// Opmaak
+:source-highlighter: rouge
+:icons: font
+// turn section titles into links
+:sectlinks:
+:description: casualties
+:publish_date: 2019-08-15
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: casualties
+:revdate: 2019-08-15
+
+//
+// WHKMLA : History of the Dutch East Indies http://www.zum.de/whkmla/region/seasia/xdei.html
+
+// _^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
+// Artikelen over '{author_name}' door {author} +
+// Version date: {revdate} +
+
+#herdenken
+[link=https://www.cwgc.org/]
+image::https://www.cwgc.org/-/media/images/cwgc/pages/thumbnails/find-cemeteries/find-cemeteries-and-memorials.ashx?h=322&w=564&la=en&hash=533269436EA309E11B8F5BB0C2BB0E4A2659F55F[]
+
+// tag::table[]
+Casualties footnote:[The Pacific War Online Encyclopedia http://www.pwencycl.kgbudge.com/C/a/Casualties.htm] in the Pacific War numbered around 36.000.000 or 50% of the total casualties of the Second World War.
+
+[cols="~,~,~,~,~",options=header]
+|===
+|Nation|Killed/missing|Wounded|Prisoners of war|Civilian deaths
+|Australia|9470|13997|21726|
+|China|4.000.000|3.000.000||18.000.000
+|India footnote:[Includes only losses in ground combat.]|6860|24.000|68.890|2.000.000
+|Japan|1.740.000|94.000|41.440footnote:[Prior to 15 August 1945.]|393.400
+|Netherlands East Indies|6.000||37.000|4.000.000
+|Netherlands|17.000|||145.500footnote:[5.500 resistance, 38.000 civilians, 102.000 jews - bron: https://www.worldwar-2.net/casualties/world-war-2-casualties-index.htm]
+|Philipines||||1.000.000
+|United Kingdom|5.670|12.840|50.016|
+|United States|11.606|253.142|21.580|
+|
+
+|===
+
+Blank entries indicate that estimates are unavailable, but the numbers likely are small
+// end::table[]
