@@ -62,6 +62,39 @@ Het steekt, zwak gezegd, dat de periode augustus 1945 - 1950 niet meetelt bij de
 
 [quote]
 "_Misschien moeten we wat ruimer kijken dan slechts het tijdvenster van een mensenleven, willen we het historische perpectief behouden_"footnote:[wouter - {ref3}]. +
-//"_Ik denk dat het pas vanaf de onbelaste 4e generatie zal lukken om aan beide zijden de feiten en gebeurtenissen zo goed mogelijk in het juiste perspectief te (willen) zien en te plaatsen_".footnote:[eppeson marawasin - {ref1}]
 
-<<<<
+"_Ik denk dat het pas vanaf de onbelaste 4e generatie zal lukken om aan beide zijden de feiten en gebeurtenissen zo goed mogelijk in het juiste perspectief te (willen) zien en te plaatsen_".footnote:[eppeson marawasin - {ref1}]
+
+[big]#Voor de - eerste generatie -  Indische Nederlanders is naast de Japanse bezetting ook de periode augustus 1945 - 1950 een periode met opnieuw slachtoffers die niet vergeten mogen worden#. 
+
+Het is een tijdvak die niet wordt 'meegenomen' in de Nationale herdenking op 15 augustus. Waarom is onduidelijk.
+
+== De data
+Over welke data en periodes hebben we het precies? :
+
+- *15 augustus*, afhankelijk van de tijdzone 14 augustus, is V-J Day (Victory over Japan Day) footnote:[{vj}], de dag van de Japanse overgave. 
+
+- De formele datum van de overgave is *2 september*, waarop het bijbehorende document werd getekend in Tokyo Bay. Het [underline]#werkelijke moment# waarop de 2^de^ Wereld Oorlog tot een einde komt. 
+
+- Op *17 augustus* werd door Soekarno de Indonesische Republiek uitgeroepen onder druk van jonge revolutionairen. Uiteraard werd die niet door de nederlandse staat erkend. Door de chaos die volgde wordt 17 augustus ook gezien als de dag waarop de 'Bersiap'footnote:[{bersiap}] startte. Deze periode duurde grofweg 3 maanden, toen de Britten de Indonesische archipel verlieten en overlieten aan de hollanders. 
+
+- De onafhanklijkheidsstrijd van de Indonesiërs was nog lang niet gestreden en zou duren tot *27 december 1949*, de dag van de formele soevereiniteitsoverdracht aan de Republiek Indonesia.
+
+=== Politieke context
+Het is duidelijk dat de Nederlandse staat niet graag terug kijkt op de gebeurtenissen na augustus 1945. Het meest bekend zijn https://www.roelbazuin.nl/blog/nl_oorlog_194550_politionele_acties.html[de Politionele acties in 1947 en 1948^], de laatste geweldadige oorlogen van Nederland in Indonesië tegen de mensen die hun land na 350 jaar terug wilden.
+
+- Het is een gegeven dat https://www.roelbazuin.nl/blog/herdenking.html[de eerste Nederlandse troepen al op 10 juni 1945 landden op Sumatra^]. 
+- Een maand daarvoor komen de eerste 40 P51D Mustangs aan bij PEP in Brisbane Australië,  die https://www.roelbazuin.nl/blog/nl_oorlog_194550_politionele_acties.html#122sqn[een belangrijke rol gaan tijdens de politionele acties^]. 
+- 14 september 1945 wordt de KNIL luitenant Westerling met een team van 4 Nederlandse militairen boven het vliegveld van Medan gedropt. 
+
+Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbereidingen om Nederlands-Indië weer aan https://www.roelbazuin.nl/blog/zwijgen.html#grondgebied_de_staat_en_de_koloni%C3%ABn[de lijst overzeese gebiedsdelen^] toe te voegen. 
+
+Als Indische-Nederlander heb je grote pech wanneer je als Indo KNIL soldaat, net bevrijd uit een Jappenkamp, in naam van koningin en vaderland moet meehelpen je voormalige buren, collega's en vrienden om zeep te helpen.
+
+Grond voor een scala aan sentimenten.
+
+
+.Updates
+_Als experiment heb ik data en documenten die voor vervolgen zullen worden gebruikt https://github.com/tjitjak/augustus[op Github geplaatst]_.
+
+
