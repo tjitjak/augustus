@@ -3,7 +3,6 @@
 2019-08-17
 :author: Roel Bazuin
 // custom meta
-// summary=This is a summary of the larger post
 // Opmaak
 :source-highlighter: rouge
 :icons: font
