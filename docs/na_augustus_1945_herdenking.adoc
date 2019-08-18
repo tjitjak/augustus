@@ -17,8 +17,8 @@
 // :jbake-type: post
 :jbake-type: page
 // Status
-// :jbake-status: published
-:jbake-status: draft
+:jbake-status: published
+//:jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
 :publish_date: 2019-08-18
 :revdate: 2019-08-18
@@ -91,10 +91,30 @@ Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbere
 
 Als Indische-Nederlander heb je grote pech wanneer je als Indo KNIL soldaat, net bevrijd uit een Jappenkamp, in naam van koningin en vaderland moet meehelpen je voormalige buren, collega's en vrienden om zeep te helpen.
 
-Grond voor een scala aan sentimenten.
+Voldoende grond voor een breed scala aan sentimenten.
 
 
 .Updates
 _Als experiment heb ik data en documenten die voor vervolgen zullen worden gebruikt https://github.com/tjitjak/augustus[op Github geplaatst]_.
+
+Het plan is om aanvullende documenten te maken met aantal slachtoffers voor en na augustus 1945.
+
+*< 1945*
+
+* By Nation
+* Militairen
+* Burgers, waaronder: +
+** 'Comfort Women' /troostmeisjes
+** Buitenkampers
+** Indonesiërs
+*** Romusha's
+*** Heiho's
+
+*> 1945*
+
+* Bersiap
+* KNIL
+* KL
+
 
 
