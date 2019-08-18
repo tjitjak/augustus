@@ -11,6 +11,7 @@
 :sectlinks:
 //:sectnums:
 //:leveloffset:
+:allow-uri-read:
 :description:  augustus herdenkingen
 :jbake-tags: blog,augustus
 // Type 
@@ -45,9 +46,9 @@
 
 [big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
 
-[link=https://15augustus1945.nl]
-image::https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.4en5mei.nl%2Ftmp%2Fmedia%2Fafbeeldingen%2Findieherdenkingwebsite_w1500_h844_bg.jpg&f=1[,600,role=right]
-
+//[link=https://15augustus1945.nl]
+//image::https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.4en5mei.nl%2Ftmp%2Fmedia%2Fafbeeldingen%2Findieherdenkingwebsite_w1500_h844_bg.jpg&f=1[,600,role=right]
+image::https://15augustus1945.nl/wp-content/uploads/2014/07/STICHTING-HERDENKING-15-AUGUSTUS-1945_2.jpg[]
 
 Op 15 augustus was de 74^ste^ Nationale Herdenking _van [underline]#'álle slachtoffers# van de Japanse bezetting van Nederlands-Indië en de directe gevolgen daarvan', 'de Japanse capitulatie en bevrijding van Nederlands-Indië in 1945_'footnote:[https://15augustus1945.nl/]. 
 
@@ -219,7 +220,7 @@ Het voorgaande overziend lijkt mij een Nederlands slachtofferaantal van circa 5.
 
 === Casualties in Asia and the Pacific by nation and type
 
-include::../blog/casualties_in_asia.adoc[tag=table]
+include::../includes/casualties_in_asia.adoc[tag=table]
 
 == Quotes
 
