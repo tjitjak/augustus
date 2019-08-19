@@ -14,10 +14,10 @@ _The plan is to make additional documents with the number of victims before and 
 - https://github.com/tjitjak/augustus/tree/master/docs[[Docs] +
 This directory holds all documents. All written in asciidoc. They will be pushed to Jbake for publishing on my website.
 
-- https://github.com/tjitjak/augustus/tree/master/includes[Includes] +
+** https://github.com/tjitjak/augustus/tree/master/includes[Includes] +
 Holds documents and files to be used in a main doc as an 'include'.
 
-- https://github.com/tjitjak/augustus/tree/master/output[Output]
+- https://github.com/tjitjak/augustus/tree/master/output[Output] +
 Holds pdf and HTML documents
 
 
