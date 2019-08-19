@@ -1,24 +1,41 @@
 # Project Augustus
 
-An experiment when writing an article with lots of references used to make tables.
-Also correcting data should be possible.
+An experiment when writing articles with lots of data, references and tables. 
+Correcting data should be possible.
 
-## _'Herdenking slachtoffers van na Augustus 1945'_
+# About
 
-"For the - first generation - Dutch Indonesians, in addition to the Japanese occupation, the period August 1945 - 1950 is also a period with once again victims who should not be forgotten."
+_'Herdenking slachtoffers van na Augustus 1945'_
+
+"For the - first generation - Dutch Indo Europeans, in addition to the Japanese occupation, the period August 1945 - 1950 is also a timeframe in which once again victims fell who should not be forgotten."
 
 _The plan is to make additional documents with the number of victims before and after August 1945._
 
 # Content
-
-- https://github.com/tjitjak/augustus/tree/master/docs[[Docs]
-This directory holds all documents. All written in asciidoc.
-
+- https://github.com/tjitjak/augustus/tree/master/docs[[Docs] +
+This directory holds all documents. All written in asciidoc. They will be pushed to Jbake for publishing on my website.
 [literal]
 docs
 ├── augustus_1945_herdenking.adoc
 └── augustus_1945_main.adoc
 
-- [Includes](https://github.com/tjitjak/augustus/tree/master/includes)
-- [Output](https://github.com/tjitjak/augustus/tree/master/output)
+- https://github.com/tjitjak/augustus/tree/master/includes[Includes] +
+Holds documents and files to be used in a main doc as an 'include'.
+[literal]
+includes
+├── casualties_in_asia.adoc
+├── pow_nei.adoc
+└── victims_nei.adoc
+- https://github.com/tjitjak/augustus/tree/master/output[Output]
+Holds pdf and HTML documents
+[literal]
+output
+├── augustus_1945_herdenking.html
+├── augustus_1945_herdenking.pdf
+├── augustus_1945.html
+└── augustus_1945.pdf
+
+# Copyright and License
+
+Copyright 2019 Roel Bazuin. Documents released under the MIT license.
 
