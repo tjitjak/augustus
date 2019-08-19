@@ -109,14 +109,14 @@ De UN rapporteert dat er in totaal 4 miljoen mensen gestorven zijn door honger e
 Hoeveel daarvan Nederlands staatsburger waren, is onbekend. 
 Veel japanse stukken / kamp-administratie is verloren gegaan.
 
-include::../includes/victims_nei.adoc[]
+include::includes/victims_nei.adoc[]
 
 
 === Militaire slachtoffers
 
 Heveel soldaten zijn gesneuveld tijdens de Japanse aanval, is mij niet bekend. Er is een redelijke concensus over het aantal krijgsgevangenen en het aantal slachtoffers.
 
-include::../includes/pow_nei.adoc[]
+include::includes/pow_nei.adoc[]
 
 
 === Burgerslachtoffers
@@ -207,7 +207,7 @@ Het voorgaande overziend lijkt mij een Nederlands slachtofferaantal van circa 5.
 
 === Casualties in Asia and the Pacific by nation and type
 
-include::../includes/casualties_in_asia.adoc[tag=table]
+include::includes/casualties_in_asia.adoc[tag=table]
 
 == Quotes
 
