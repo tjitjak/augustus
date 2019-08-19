@@ -14,26 +14,13 @@ _The plan is to make additional documents with the number of victims before and 
 # Content
 - https://github.com/tjitjak/augustus/tree/master/docs[[Docs] +
 This directory holds all documents. All written in asciidoc. They will be pushed to Jbake for publishing on my website.
-[literal]
-docs
-├── augustus_1945_herdenking.adoc
-└── augustus_1945_main.adoc
 
 - https://github.com/tjitjak/augustus/tree/master/includes[Includes] +
 Holds documents and files to be used in a main doc as an 'include'.
-[literal]
-includes
-├── casualties_in_asia.adoc
-├── pow_nei.adoc
-└── victims_nei.adoc
+
 - https://github.com/tjitjak/augustus/tree/master/output[Output]
 Holds pdf and HTML documents
-[literal]
-output
-├── augustus_1945_herdenking.html
-├── augustus_1945_herdenking.pdf
-├── augustus_1945.html
-└── augustus_1945.pdf
+
 
 # Copyright and License
 
