@@ -1,13 +1,12 @@
 # Project Augustus
 
-An experiment when writing articles with lots of data, references and tables. 
-Correcting data should be possible.
+A public experiment on Github when writing articles with lots of data, references and tables. 
 
 # About
 
 "_Commemoration of victims after August 1945_"
 
-"For the - first generation - Dutch Indo Europeans, in addition to the Japanese occupation, the period August 1945 - 1950 is also a timeframe in which once again victims fell who should not be forgotten."
+"For the - first generation - Dutch Indo-Europeans, in addition to the Japanese occupation, the period August 1945 - 1950 is a timeframe in which once again victims fell who should not be forgotten."
 
 _The plan is to make additional documents with the number of victims before and after August 1945._
 
