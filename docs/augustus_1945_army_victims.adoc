@@ -1,0 +1,176 @@
+= Augustus 1945 - Slacht offers WOII NEI
+.
+2019-08-19
+:author: Roel Bazuin
+// custom meta
+// Opmaak
+:source-highlighter: rouge
+:icons: font
+// turn section titles into . links
+:sectlinks:
+//:sectnums:
+//:leveloffset:
+:allow-uri-read:
+:description:  augustus militaire slachtoffers
+:jbake-tags: blog,augustus
+// Groep 
+// :jbake-Groep: post
+:jbake-Groep: page
+// Status
+// :jbake-status: published
+:jbake-status: draft
+// - providing content date is equal to or past current date content will be considered published and included in the published collections
+:publish_date: 2019-08-17
+:revdate: 2019-08-17
+//:imagesdir: 
+// referenties
+:ref1: ‘Moord op duizenden (Indische) Nederlanders was genocide’ - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/
+:ref2: https://www.thejakartapost.com/news/2013/11/12/the-untold-story-surabaya-battle-1945.html
+:ref3: Opmerkelijke feiten en zaken aangaande Nederlands Indië/Indonesië - https://indisch4ever.nu/2011/12/27/opmerkelijke-feiten-en-zaken-aangaande-nederlands-indieindonesie/
+:ref4: https://indisch4ever.nu/2013/11/21/the-bersiapdiscussion-as-revived-by-w-frederick/
+:ref4: 100.000: the magic victim number - https://www.kitlv.nl/blog-100-000-magic-victim-number/
+:ref5: Bersiap: de werkelijke cijfers (2014) - https://javapost.nl/2014/02/07/bersiap-de-werkelijke-cijfers/
+:ref6: De slachtoffers van de Bersiap - http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html
+//
+:bersiap: Bersiap - https://en.wikipedia.org/wiki/Bersiap
+:bersiapincijfers: Bersiap in cijfers - https://javapost.nl/2012/09/03/bersiap-in-cijfers/
+:nidobersiap: http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html
+:vj: Victory over Japan Day - https://en.wikipedia.org/wiki/Victory_over_Japan_Day
+
+//_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
+//Artikelen over '{author_name}' door {author} +
+//Version date: {revdate} +
+
+#woii #herdenken #gedenken #nadenken #slachtoffers #victims
+
+[big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
+
+.C.W. (Bas) Bastiaans (opa) met P. (Tinus) Guit
+[link=https://www.roelbazuin.nl/stamboom/timeline_cwbastiaans_mlknil_fukuoka_medan.html]
+image::https://www.roelbazuin.nl/assets/Bastiaans_Carol_docs/Bastiaans_Carol_Wilhelm_en_onbekende_collega.png[,600,role=right]
+
+// einde herdenking
+// start
+
+Naast data, periodes en daarmee samenhangende vergeten gebeurtenissen, zijn aantallen slachtoffers al decennia lang onderwerp van discussie.
+
+Natuurlijk was WOII in de Pacific niet begonnen bij de inval van de Japanners in '42. 
+
+De Japanners waren eind 1941 Sarawak (noordelijk Borneo) binnengevallen. Zoals bekend hadden ze 10 jaar daarvoor Shanghai al veroverd en in 1937 https://en.wikipedia.org/wiki/Nanjing_Massacre[200.000 Chinezen in Nanjing] footnote:[The Nanjing Massacre or Rape of Nanjing was an episode of mass murder and mass rape committed by Imperial Japanese troops against the residents of Nanjing (Nanking), then the capital of China, during the Second Sino-Japanese War. Soldiers of the Imperial Japanese Army murdered Chinese civilians and disarmed combatants and numbered an estimated 40.000 to over 300.000 and perpetrated widespread rape and looting.] op brute wijze vermoord.
+
+== Slachtoffers in de Pacific regio
+include::../includes/casualties_in_asia.adoc[tag=table]
+
+.KNIL-militairen Inf X op 14 februari 1942.
+[link=https://www.roelbazuin.nl/project/indie_veteranen/indie_veteranen_KNIL.html]
+image::http://indisch-anders.nl/wp-content/uploads/2018/10/KNIL-47_Palembang.jpg[,600,role=right]
+
+Op basis van deze enorme aantallen is het voor een land als Nederland, met een decennia lang verleden in de regio, lastig te verklaren waarom er zo weinig aandacht wordt besteed aan de geschiedenis van WOII in 'de oost'. 
+
+En de daarmee samenhangende herdenking van 'álle slachtoffers van de Japanse bezetting van Nederlands-Indië'. 
+Waaronder Amerikanen, Britten, Gurka's, Australiërs en KNIL Indonesiërs footnote:[American-British-Dutch-Australian Command - https://en.wikipedia.org/wiki/American-British-Dutch-Australian_Command].
+
+== Troepen NEI
+[link=http://indisch-anders.nl/het-knil-1936-1942-in-cijfers-en-beeld/]
+image::http://indisch-anders.nl/wp-content/uploads/2018/10/omslag-Men-at-Arms-222x300.jpg[,300,role="related thumb right"]
+
+In Nederlands-Indië werden ~ 70.000 KNIL militairen en 33.000 Indonesische KNIL militairen ingezet. footnote:indisch_anders[Het KNIL 1936-1942 in cijfers en beeld - http://indisch-anders.nl/het-knil-1936-1942-in-cijfers-en-beeld/] footnote:[Passie voor onze veteranen? Een onderzoek naar berichtgeving over veteranen in de Nederlandse gedrukte media https://sd4590ec8c291c560.jimcontent.com/download/version/1503849330/module/11957085722/name/Jongh%2C%20S..pdf] footnote:[Belanda Hitam; In 1936 bereikte het aantal inlandse KNIL-soldaten 33 duizend mensen of ongeveer 77%. Bron: https://translate.google.com/translate?sl=id&tl=nl&u=https%3A%2F%2Fwww.eramuslim.com%2Fsuara-kita%2Fsuara-pembaca%2Fbelanda-hitam.htm] footnote:[Het KNIL 1936-1942 in cijfers en beeld: in 1929 had maar 20,76% de Europese status  (het waren voornamelijk totoks en Indo’s); in 1941, toen uit noodzaak uiteindelijk de dienstplicht voor Indonesiërs was ingesteld, moeten het er percentueel nog minder zijn geweest. Het hogere kader was van meet af aan overwegend ‘Europees’, de Indonesiërs werden ingezet buiten hun regio van herkomst; deze maatregelen verraden het besef dat het niet vanzelfsprekend was om tegen je eigen landsmensen te vechten, noch te allen tijde de belangen van de kolonisator te verdedigen, en die simpele waarheid wreekte zich toen de oorlog een feit was: velen ‘deserteerden’. http://indisch-anders.nl/het-knil-1936-1942-in-cijfers-en-beeld/]
+
+[quote]
+In Nederlands-Indië werden mannen in de leeftijd tussen 18 en 50 jaar in december 1941 voor het overgrote deel gemobiliseerd. Circa 42.000 van hen werden krijgsgevangene gemaakt. Het betrof o.a. Nederlands-Indische, Molukse, Papoea, Timoreze, Torodja (Celebes) en Menadonese KNIL soldaten.
+
+Het hogere kader was van meet af aan overwegend ‘Europees’. 
+
+De Indonesiërs werden ingezet buiten hun regio van herkomst; deze maatregelen verraden het besef dat het niet vanzelfsprekend was om tegen je eigen landsmensen te vechten, noch te allen tijde de belangen van de kolonisator te verdedigen. footnote:indisch_anders[]
+
+//:sectnums:
+//:leveloffset:
+
+== Vòòr 1945 gevallen slachtoffers NEI
+In tabel 1 zijn de aantallen militaire en burgerslachtoffers in Nederlands-Indië opgenomen, gevallen vòòr augustus 1945. 
+
+De UN rapporteert dat er in totaal 4 miljoen mensen gestorven zijn door honger en dwangarbeid tijdens de Japanse bezetting van Nederlands-Indië, waaronder 35.000 niet geïnterneerde Europeanen. Naar schatting zijn er ~ 14.800 van 100.000 geïnterneerde Europese burgers omgekomen in Japanse kampen footnote:[https://www.japanseburgerkampen.nl/]. 
+
+Veel japanse stukken / kamp-administratie zijn verloren gegaan. Hierdoor zijn exacte aantallen niet te geven.
+
+include::../includes/victims_nei.adoc[]
+
+
+=== Militaire slachtoffers
+
+Heveel soldaten zijn gesneuveld tijdens de Japanse aanval, is mij niet bekend. Er is een redelijke concensus over het aantal krijgsgevangenen en het aantal slachtoffers.
+
+include::../includes/pow_nei.adoc[]
+
+
+=== Burgerslachtoffers
+
+De UN spreekt van 14.800 slachtoffers onder geïnterneerde Europese burgers. In onderstaande tabel wordt op basis van diverse bronnen een boven- en ondergrens aangegeven.
+
+.Geïnterneerde Europese burgers
+[cols="~,~,~,~",%autowidth]
+|===
+|- |Totaal|Omge komen  | Opmerkingen
+
+|Europese Burgers	|96.400-110.000	 |10.580-16.800	|Schattingen. Japanse stukken  verloren gegaan
+|Java	|82.600				||ca. 29.000 mannen, ca. 25.000 vrouwen en ca. 29.000 kinderen
+|Sumatra	|13.200	|			|1.200 personen van andere nationaliteit (w.o. ca. 700 Britten)
+|Grote Oost	|4.140|				|Op Celebes geconcentreerd, uitgezonderd ca. 500 op Ambon
+|Borneo	|500|				|300 personen in juli ’42 naar Brits-Borneo
+|===
+
+// tot 1908
+
+=== Buitenkampers
+
+Hoeveel niet-geïnterneerde (Indo-)Europeanen er in totaal van de honger en andere ontberingen zijn omgekomen is niet bekend. 
+Eind 1948 waren er in heel Indië nog circa 2.500 Europeanen zoek, wo personen in die in de Japanse bezettingstijd spoorloos waren verdwenen. 
+
+
+[cols="~,~,~,~,~",%autowidth]
+|===
+|-	|Totaal	|Om gekomen	|Groep	|Opmerkingen
+
+|niet-geïnterneerde Indo-Europeanen	|220.000-240.000	|3.500	|Buiten kampers	|Slachtoffers Bersiap op 3.500 geschat (ODO). 
+|niet-geïnterneerde Indo-Europeanen		||20.000|Buiten kampers		|Dit aantal (Bussemaker) wordt gezien als zeer discutabel, doordat onderbouwing ontbreekt.
+|Arrestaties Kenpeitai	|15.000	|12.000	|Buiten kampers	|(Indo-)Europeanen, Indonesiërs en Chinezen.  5.000 werden geëxecuteerd. 7000 stierven in gevangenschap
+|
+|===
+
+=== Indonesiërs
+
+De Indonesische regering schatte het totale dodental begin jaren 1950 op 4 miljoen, in lijn met het UN rapport. 
+
+[cols="~,~,~,~,~",%autowidth]
+|===
+|-	|Totaal	|Om gkomen	|Groep	|Opmerkingen
+
+|Javanen en Madoerezen		||2,5-4 milj	|Indonesiërs	|Voornamelijk door honger
+|Romusha's Java	|2,6_tot_12,5 milj	|8.441	|Indonesiërs	|van hoogleraar caroline tsai
+|Romusha's Buitengewesten	|300.000	|165.000	|Indonesiërs	|oa Birma
+|Romusha's birma		||2.800	|Indonesiërs	|caroline tsai
+|Romusha's borneo en halmaheira		||12.100	|Indonesiërs	|caroline tsai
+|Romusha's andere nationaliteiten	|190.000	|152.000	|Indonesiërs	|Chinezen, Maleiers en Tamils naar Birma
+|Heiho's	|60.000	|32.500	|Indonesiërs|	
+|Heiho ex KNIL	|15.000	|7.500	|Indonesiërs|	
+|===
+
+=== 'Comfort Women' / 'Troostmeisjes'
+"_August 14 marked the 1400th Wednesday rally in Korea, which started 27 years ago, demanding the Japanese government a formal apology and proper compensation for its wartime sexual enslavement_." footnote:['Comfort Women' Statue Unveiled on Seoul's Namsan Mountain - https://www.youtube.com/watch?v=o_uzbJbBeBk&feature=youtu.be]
+
+
+[cols="~,~,~,~,~",%autowidth]
+|===
+|-	|Totaal	|Om gekomen	|Groep	|Opmerkingen
+
+|Europese vrouwen	|200-300|		|Dwang prostituees	|Japanse bordelen in Nederlands-Indië
+|Koreaanse vrouwen	|80.000|		|Dwang prostituees	|
+|Japanse of de Taiwanese vrouwen	|20.000|		|Dwang prostituees	|afkomstig uit de door Japan bezette gebieden
+|===
+
+
+== Afkortingen
+[glossary]
+
+O.D.O.:: Nederlandse Opsporingsdienst Overledenen (ODO).  +
+In december 1945 opgerichte organisatie was belast met het verzamelen van betrouwbare gegevens over alle Nederlanders en Nederlandse onderdanen die na 7 december 1941 waren overleden of werden vermist. Helaas is van het O.D.O.-archief zeer weinig bewaard gebleven. 
