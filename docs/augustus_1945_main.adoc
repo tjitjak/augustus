@@ -88,12 +88,12 @@ Het is een feit dat https://www.roelbazuin.nl/blog/herdenking.html[de eerste Ned
 Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbereidingen om Nederlands-Indië weer aan https://www.roelbazuin.nl/blog/zwijgen.html#grondgebied_de_staat_en_de_koloni%C3%ABn[de lijst overzeese gebiedsdelen^] toe te voegen. Dan heb je grote pech wanneer je als Indo KNIL soldaat, net bevrijdt uit een Jappenkamp, in naam van koningin en vaderland moet meehelpen je voormalige buren, collega's en vrienden om zeep te helpen. 
 
 Grond voor een scala aan sentimenten.
-<<<<
 
 // einde herdenking
 // start
 
 == Aantallen
+//// 
 Naast data, periodes en daarmee samenhangende vergeten gebeurtenissen, zijn aantallen slachtoffers al decennia lang onderwerp van discussie. Eveneens als het gaat om 'Nederlands-Indië'.
 
 Het aantal slachtoffers in de Pacific Oorlog wordt geschat op 36.000.000. Oftewel 50% van het totaal aantal slachtoffers in WOII footnote:[http://www.pwencycl.kgbudge.com/C/a/Casualties.htm].
@@ -109,6 +109,7 @@ De UN rapporteert dat er in totaal 4 miljoen mensen gestorven zijn door honger e
 Hoeveel daarvan Nederlands staatsburger waren, is onbekend. 
 Veel japanse stukken / kamp-administratie is verloren gegaan.
 
+
 include::includes/victims_nei.adoc[]
 
 
@@ -117,7 +118,11 @@ include::includes/victims_nei.adoc[]
 Heveel soldaten zijn gesneuveld tijdens de Japanse aanval, is mij niet bekend. Er is een redelijke concensus over het aantal krijgsgevangenen en het aantal slachtoffers.
 
 include::includes/pow_nei.adoc[]
+////
 
+include::augustus_1945_army_victims.adoc[tag=deel2]
+
+// deel 3
 
 === Burgerslachtoffers
 
