@@ -90,6 +90,9 @@ Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbere
 Grond voor een scala aan sentimenten.
 <<<<
 
+// einde herdenking
+// start
+
 == Aantallen
 Naast data, periodes en daarmee samenhangende vergeten gebeurtenissen, zijn aantallen slachtoffers al decennia lang onderwerp van discussie. Eveneens als het gaat om 'Nederlands-Indië'.
 
@@ -131,6 +134,8 @@ De UN spreekt van 14.800 slachtoffers onder geïnterneerde Europese burgers. In 
 |Grote Oost	|4.140|				|Op Celebes geconcentreerd, uitgezonderd ca. 500 op Ambon
 |Borneo	|500|				|300 personen in juli ’42 naar Brits-Borneo
 |===
+
+// tot 1908
 
 === Buitenkampers
 
