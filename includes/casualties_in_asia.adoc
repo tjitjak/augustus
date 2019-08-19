@@ -37,8 +37,7 @@ Casualties footnote:[The Pacific War Online Encyclopedia http://www.pwencycl.kgb
 |China|4.000.000|3.000.000||18.000.000
 |India footnote:[Includes only losses in ground combat.]|6860|24.000|68.890|2.000.000
 |Japan|1.740.000|94.000|41.440footnote:[Prior to 15 August 1945.]|393.400
-|Netherlands East Indies|6.000||37.000|4.000.000
-|Netherlands|17.000|||145.500footnote:[5.500 resistance, 38.000 civilians, 102.000 jews - bron: https://www.worldwar-2.net/casualties/world-war-2-casualties-index.htm]
+|Netherlands East Indies|8.498||42.233|4.000.000
 |Philipines||||1.000.000
 |United Kingdom|5.670|12.840|50.016|
 |United States|11.606|253.142|21.580|
@@ -46,5 +45,6 @@ Casualties footnote:[The Pacific War Online Encyclopedia http://www.pwencycl.kgb
 
 |===
 
-Blank entries indicate that estimates are unavailable, but the numbers likely are small
+ Blank entries indicate that estimates are unavailable, but the numbers likely are small
+ 
 // end::table[]
