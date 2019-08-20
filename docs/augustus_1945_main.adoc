@@ -90,33 +90,12 @@ Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbere
 Grond voor een scala aan sentimenten.
 
 // einde herdenking
-// start
+// deel 2
 
 == Aantallen
-//// 
-Naast data, periodes en daarmee samenhangende vergeten gebeurtenissen, zijn aantallen slachtoffers al decennia lang onderwerp van discussie. Eveneens als het gaat om 'Nederlands-Indië'.
 
-Het aantal slachtoffers in de Pacific Oorlog wordt geschat op 36.000.000. Oftewel 50% van het totaal aantal slachtoffers in WOII footnote:[http://www.pwencycl.kgbudge.com/C/a/Casualties.htm].
-
-:sectnums:
-//:leveloffset:
-
-== Vòòr 1945 gevallen slachtoffers
-In tabel 1 zijn de aantallen militaire en burgerslachtoffers in Nederlands-Indië opgenomen, gevallen vòòr augustus 1945. 
-
-De UN rapporteert dat er in totaal 4 miljoen mensen gestorven zijn door honger en dwangarbeid tijdens de Japanse bezetting van Nederlands-Indië, waaronder 35.000 niet geïnterneerde Europeanen. Naar schatting zijn er ~ 14.800 van 100.000 geïnterneerde Europese burgers omgekomen in Japanse kampen footnote:[https://www.japanseburgerkampen.nl/]. 
-
-Hoeveel daarvan Nederlands staatsburger waren, is onbekend. 
-Veel japanse stukken / kamp-administratie is verloren gegaan.
-
-
+////
 include::includes/victims_nei.adoc[]
-
-
-=== Militaire slachtoffers
-
-Heveel soldaten zijn gesneuveld tijdens de Japanse aanval, is mij niet bekend. Er is een redelijke concensus over het aantal krijgsgevangenen en het aantal slachtoffers.
-
 include::includes/pow_nei.adoc[]
 ////
 
