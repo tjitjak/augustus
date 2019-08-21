@@ -1,6 +1,6 @@
 = Herdenking slachtoffers van na Augustus 1945 - Pacific WOII - Burger slachtoffers WOII NEI
 .
-2019-08-20
+2019-08-21
 :author: Roel Bazuin
 // custom meta
 // Opmaak
@@ -14,14 +14,14 @@
 :description:  augustus militaire slachtoffers
 :jbake-tags: blog,augustus
 // Groep 
-// :jbake-Groep: post
+:jbake-Groep: post
 //:jbake-Groep: page
 // Status
-// :jbake-status: published
+:jbake-status: published
 // :jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
-:publish_date: 2019-08-20
-:revdate: 2019-08-20
+:publish_date: 2019-08-21
+:revdate: 2019-08-21
 //:imagesdir: 
 // referenties
 :ref1: ‘Moord op duizenden (Indische) Nederlanders was genocide’ - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/
@@ -41,45 +41,47 @@
 //Artikelen over '{author_name}' door {author} +
 //Version date: {revdate} +
 
-#woii #herdenken #gedenken #nadenken #slachtoffers #victims #militairen #burger #civilians
+#woii #herdenken #nadenken #slachtoffers #burgers #comfortwomen
 
 => deel 3
 
-_‘Voor Nederlanders kun je de hele oorlog in het Verre Oosten samenvatten in één woord: Jappenkamp_ footnote:[‘In Japan zijn die Jappenkampen nooit een thema geweest’ - https://www.volkskrant.nl/mensen/in-japan-zijn-die-jappenkampen-nooit-een-thema-geweest~b67a4788/]
-
 De Nationale herdenking heeft als uitgangspunt het gedenken van [underline]*'álle slachtoffers van de Japanse bezetting* in Nederlands-Indië', waaronder burgerslachtoffers. 
 
-China heeft 18.000.000 burgerslachtoffers te betreuren, India 2.000.000 en de Philipijnen 1.000.000. +
-De UN spreekt van 4.000.000 Indonesische burgerslachtoffers in NEI, ruim 5% van de bevolking.
+China heeft 18.000.000 burgerslachtoffers te betreuren, India 2.000.000 en de Philipijnen 1.000.000. 
+De UN spreekt van 4.000.000 Indonesische burgerslachtoffers en 14.800 slachtoffers onder geïnterneerde Europese burgers in NEI.
+
+Naar schatting zijn 200.000 vrouwen en meisjes als dwangprostituee ('Comfort Women') ter beschikking gesteld aan Japanse militairen.
+
 [NOTE]
-In verhouding getalsmatig klein, de impact was op veel van de in Nederlands-Indië geboren Europese en Nederlands-Indische bevolkinsgroepen enorm. Zij raakten hun vader- én moederland kwijt. Voor de meeste Indo-Europese families, https://www.roelbazuin.nl/stamboom/[zoals die van mij^], gaat hun geschiedenis eeuwen terug. 
+In verhouding getalsmatig klein, de impact was op veel van de in Nederlands-Indië geboren Europese en Nederlands-Indische bevolkinsgroepen enorm. Zij raakten in een klap hun vader- én moederland kwijt. +
+Voor de meeste Indo-Europese families, https://www.roelbazuin.nl/stamboom/[zoals die van mij^], gaat hun geschiedenis eeuwen terug. 
 
 == Burgerslachtoffers
 
 === Indonesiërs
 
-De Indonesische regering schatte het totale dodental begin jaren 1950 op 4 miljoen, in lijn met het UN rapport. 
+Hoewel de 'Nationale herdenking' claimt [underline]*álle* slachtoffers te herdenken, worden de Indonesische burgerslachtoffers niet genoemd footnote:[Dekoloniseer de Indiëherdenking - http://www.bij1.org/news/algemeen/dekoloniseer-de-indieherdenking-21104?fbclid=IwAR0yc8abm_xYm5iPoJxY29eV1NSQtWYtINdM9_q3jjNBwymYjdMOSYJqNhs]. 
+Het is volkomen onduidelijk waarom.
 
-Hoewel de 'Nationale herdenking' claimt álle slachtoffers te herdenken, worden de miljoenen Indonesische slachtoffers niet genoemd footnote:[Dekoloniseer de Indiëherdenking - http://www.bij1.org/news/algemeen/dekoloniseer-de-indieherdenking-21104?fbclid=IwAR0yc8abm_xYm5iPoJxY29eV1NSQtWYtINdM9_q3jjNBwymYjdMOSYJqNhs]. 
+De Indonesische regering schatte het totale dodental begin jaren 1950 op 4.000.000, in lijn met het UN rapport. Dat is ruim 5% van de bevolking in die periode.
 
 .Romusha's
 Rōmusha (労務者)footnote:[Rōmusha - https://en.wikipedia.org/wiki/Romusha] is een Japans woord voor 'werker'. 
-Voor het overgrote deel Indonesiërs, maar ook Chinezen, Maleiers en Tamils, die gedwongen werden voor het verrichten van -betaalde- arbeid voor de Japanner. 
-Naar schatting zijn er tussen 4 en 10.000.000 door de Japanners geronseld. 
+Voor het overgrote deel Indonesiërs, maar ook Chinezen, Maleiers en Tamils, die gedwongen werden tot het verrichten van -betaalde- arbeid voor de Japanner. 
+Naar schatting zijn er tussen 4 en 10.000.000 mensen door de Japanners geronseld. 
 
 De arbeid varieerde van een dag tot de tijd benodigd voor een bepaald project en ging van licht huishoudelijk werk tot zware constructiearbeid.
 De meesten werkten in hun eigen regio. Anderen werden naar andere gebieden gestuurd. 
 Zij verrichten o.a. dwangarbeid aan de Pekanbaru-spoorweg footnote:[https://nl.wikipedia.org/wiki/Pekanbaru-spoorweg] op Sumatra tussen 1943 en '45 en de Birma-Thailand spoorweg footnote:[https://nl.wikipedia.org/wiki/Birmaspoorweg] tussen 1942 - '43'. 
-In verhouding stierven er vdaar eel meer Romusha's dan gealieerde POW's.
+In verhouding stierven er daar veel meer Romusha's dan geallieerde POW's.
 
-De brutaliteit van de Romusha en ander gedwongen arbeid systemen footnote:[The rōmusha were supplemented by true unpaid laborers, the kinrōhōshi, who performed mostly menial labor. The kinrōhōshi were recruited for a shorter duration than the rōmusha via tonarigumi neighborhood associations and were theoretically voluntary, although considerable social coercion was applied to "volunteer" as a show of loyalty to the Japanese cause. In 1944, the number of kinrōhōshi in Java was around 200,000 people] was een van de hoofdredenen van het enorme dodenaantal van Indonesiërs tijdens de Japanse bezetting.
+De brutaliteit van de Romusha en personen uit andere gedwongen arbeid systemen footnote:[The rōmusha were supplemented by true unpaid laborers, the kinrōhōshi, who performed mostly menial labor. The kinrōhōshi were recruited for a shorter duration than the rōmusha via tonarigumi neighborhood associations and were theoretically voluntary, although considerable social coercion was applied to "volunteer" as a show of loyalty to the Japanese cause. In 1944, the number of kinrōhōshi in Java was around 200,000 people] was een van de hoofdredenen van het enorme dodenaantal van Indonesische burgers tijdens de Japanse bezetting.
 
 [NOTE]
 Heiho en PETA waren strikt genomen leger onderdelen. Voor het moment hier ingedeeld.
 
 .Heiho's
-Heihō's footnote:[Heiho's - https://nl.wikipedia.org/wiki/Heiho's^]  (兵補) waren hulptroepen van het Japanse leger footnote:[synoniem aan de vrijwilligers in de Duitse Wehrmacht en Waffen SS]. Het Japanse leger recruteerde naar schatting 50.000 Indonesiërs als aanvulling op het 16^th^ army. Hun officieren waren Japans. Zij konden naar behoefte overal worden ingezet, ver weg van geboortegrond en bv. in de frontlinies. +
--> niet te verwarren met PETA
+Heihō's footnote:[Heiho's - https://nl.wikipedia.org/wiki/Heiho's^]  (兵補),niet te verwarren met PETA, waren hulptroepen van het Japanse leger footnote:[synoniem aan de vrijwilligers in de Duitse Wehrmacht en Waffen SS]. Het Japanse leger recruteerde naar schatting 50.000 Indonesiërs als aanvulling op het 16^th^ army. Hun officieren waren Japans. Zij konden naar behoefte overal worden ingezet, ver weg van geboortegrond en bv. in de frontlinies. +
 
 .PETA
 PETA footnote:[Pembela Tanah Air - https://en.wikipedia.org/wiki/PETA_(Indonesia)] (Pembela Tanah Air – Defenders of the Homeland), door Japan in Indonesië opgericht op 3 oktober 1943 op aangeven van religeuze groepen. De training was gecentreerd in het militaire complex van Bogor. Het leger van PETA heeft een belangrijke rol gespeeld in de Indonesische Onafhankelijkheidsoorlog en wordt algemeen beschouwd als een van de voorlopers van het Indonesische nationale leger. 
@@ -103,6 +105,9 @@ PETA footnote:[Pembela Tanah Air - https://en.wikipedia.org/wiki/PETA_(Indonesia
 |===
 
 === Geïnterneerde Europeanen
+_‘Voor Nederlanders kun je de hele oorlog in het Verre Oosten samenvatten in één woord: Jappenkamp_ footnote:[‘In Japan zijn die Jappenkampen nooit een thema geweest’ - https://www.volkskrant.nl/mensen/in-japan-zijn-die-jappenkampen-nooit-een-thema-geweest~b67a4788/]
+
+
 De UN spreekt van 14.800 slachtoffers onder geïnterneerde Europese burgers. In onderstaande tabel wordt op basis van diverse bronnen een boven- en ondergrens aangegeven.
 
 Schattingen van omgekomen Europese burgers in Jappenkampen liggen tussen 10.500 en 16.800.
@@ -128,7 +133,7 @@ Met _'Buitenkampers'_ worden de Europese ic. Nederlands-Indische bevolkingsgroep
 De meeste vrouwen en kinderen binnen mijn familie zijn 'buitenkamper', https://www.roelbazuin.nl/stamboom/achtergrond_elvire_elise_hermina_van_nederlands_indie_via_australie_naar_nederland.html[waaronder mijn oma en moeder^]. Zij overleefden de tweede helft van bezetting in Bandoeng waar zij samen met zusters /tantes in het huis van tante Tien woonden.
 
 Hoeveel niet-geïnterneerde (Indo-)Europeanen er precies van de honger en andere ontberingen zijn omgekomen is niet bekend. 
-Het aantal slachtoffers wordt geschat tussen 3.500 en 20.000. Dat is respectievelijk 0.1% en 0.5% van het toaal aantal omgekomen burgers (4 milj). 
+Het aantal slachtoffers wordt geschat tussen 3.500 en 20.000. Dat is respectievelijk 0.1% en 0.5% van het totaal aantal omgekomen burgers (4 miljoen). 
 
 Eind 1948 waren er in heel Indonesië nog circa 2.500 Europeanen zoek, waaronder personen in die in de Japanse bezettingstijd spoorloos waren verdwenen. 
 
@@ -142,17 +147,23 @@ Eind 1948 waren er in heel Indonesië nog circa 2.500 Europeanen zoek, waaronder
 |
 |===
 
+=== Comfort Women
 
+Comfort Women, ook wel 'troostmeisjes' genoemd, waren vrouwen die voor en tijdens de Tweede Wereldoorlog door particulieren en de Japanse officiële instanties ter beschikking werd gesteld aan de Japanse militairen. Deze vrouwen waren seksslavinnen die tegen hun wil werden vastgehouden en gedwongen zich te prostitueren footnote:[Troostmeisje - https://nl.wikipedia.org/wiki/Troostmeisje] en zijn als zodanig slachtoffers van de Japanse bezetting.
 
-=== 'Comfort Women' / 'Troostmeisjes'
-"_August 14 marked the 1400th Wednesday rally in Korea, which started 27 years ago, demanding the Japanese government a formal apology and proper compensation for its wartime sexual enslavement_." footnote:['Comfort Women' Statue Unveiled on Seoul's Namsan Mountain - https://www.youtube.com/watch?v=o_uzbJbBeBk&feature=youtu.be]
- 
+Historici spreken vandaag van naar schatting 200.000 vrouwen. De meisjes en vrouwen waren voornamelijk afkomstig van China (10%), Japan (40%), Korea (20%), Taiwan, de Filipijnen, Singapore, Maleisië, Birma, Nederlands-Indië, Thailand, Vietnam en een aantal eilanden in de Stille Oceaan.
+
+Nederlands-Indië was het enige land waar westerse vrouwen op grote schaal als dwangprostituee werden ingezet footnote:[1930-1945 Verborgen geschiedenis van de troostmeisjes - https://seniorplaza.nl/1930-1945g3/].
+
+*"_August 14 marked the 1400th Wednesday rally in Korea, which started 27 years ago, demanding the Japanese government a formal apology and proper compensation for its wartime sexual enslavement_"* footnote:['Comfort Women' Statue Unveiled on Seoul's Namsan Mountain - https://www.youtube.com/watch?v=o_uzbJbBeBk&feature=youtu.be]. +
+Zuid-Korea en Japan zijn hierover in 2019 in een bittere handelsoorlog terecht gekomen. 
 
 [cols="~,~,~,~,~",%autowidth]
 |===
 |-	|Totaal	|Om gekomen	|Groep	|Opmerkingen
 
-|Europese vrouwen	|200-300|		|Dwang prostituees	|Japanse bordelen in Nederlands-Indië
+|Europese vrouwen	|200-400|		|Dwang prostituees	|geïnterneerde Nederlands-Indische en Nederlandse vrouwen in Japanse bordelen in Nederlands-Indië
+|Indonesische vrouwen| 30.000||Dwang prostituees|Japanse bordelen in Nederlands-Indië
 |Koreaanse vrouwen	|80.000|		|Dwang prostituees	|
 |Japanse of de Taiwanese vrouwen	|20.000|		|Dwang prostituees	|afkomstig uit de door Japan bezette gebieden
 |===
