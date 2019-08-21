@@ -43,6 +43,8 @@
 
 #woii #herdenken #gedenken #nadenken
 
+// tag::deel1[]
+
 [big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
 
 [link=https://15augustus1945.nl]
@@ -95,6 +97,7 @@ Als Indische-Nederlander heb je grote pech wanneer je als Indo KNIL soldaat, net
 
 Voldoende grond voor een breed scala aan sentimenten.
 
+// end::deel1[]
 
 .Updates
 _Als experiment heb ik data en documenten die voor vervolgen zullen worden gebruikt https://github.com/tjitjak/augustus[op Github geplaatst]_.

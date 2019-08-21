@@ -1,4 +1,4 @@
-= Augustus 1945 - All
+= Project Augustus - Slachtoffers voor en na augustus 1945 - NEI
 .
 2019-08-17
 :author: Roel Bazuin
@@ -21,7 +21,15 @@
 :jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
 :publish_date: 2019-08-17
-:revdate: 2019-08-17
+:revdate: 2019-08-21
+//
+:doctype: book
+:toc: left
+//:toc: macro
+:toc-title: Inhoud
+
+toc::[]
+
 //:imagesdir: 
 // referenties
 :ref1: ‘Moord op duizenden (Indische) Nederlanders was genocide’ - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/
@@ -43,53 +51,10 @@
 
 #woii #herdenken #gedenken #nadenken
 
-[big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
+// deel 1 Herdenking
 
-//[link=https://15augustus1945.nl]
-//image::https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.4en5mei.nl%2Ftmp%2Fmedia%2Fafbeeldingen%2Findieherdenkingwebsite_w1500_h844_bg.jpg&f=1[,600,role=right]
-image::https://15augustus1945.nl/wp-content/uploads/2014/07/STICHTING-HERDENKING-15-AUGUSTUS-1945_2.jpg[]
+include::augustus_1945_herdenking.adoc[tag=deel1]
 
-Op 15 augustus was de 74^ste^ Nationale Herdenking _van [underline]#'álle slachtoffers# van de Japanse bezetting van Nederlands-Indië en de directe gevolgen daarvan', 'de Japanse capitulatie en bevrijding van Nederlands-Indië in 1945_'footnote:[https://15augustus1945.nl/]. 
-
-De herdenking geeft - jammer genoeg - nog altijd aanleiding voor controversies. https://www.roelbazuin.nl/stamboom/augustus.html[Wel begrijpelijk^]. 
-Gegeven de https://www.roelbazuin.nl/stamboom/#_geschiedenis[historie^] van Indische-Nederlanders. 
-Daaronder https://www.roelbazuin.nl/stamboom/#_familie_verhalen[een deel van mijn familie^]. 
-
-[big]*Historie die vergeten is. Wordt.*
-
-Aanleidingen zijn de datum tot waar geteld wordt (15 augustus) en de daarmee samenhangende slachtoffers. 
-Het steekt, zwak gezegd, dat de periode augustus 1945 - 1950 niet meetelt bij de Nationale Herdenking. Als je het 'conflict' om Nieuw-Guinea meerekend, dan moeten we doortellen tot 1963.
-
-[quote]
-"_Misschien moeten we wat ruimer kijken dan slechts het tijdvenster van een mensenleven, willen we het historische perpectief behouden_"footnote:[wouter - {ref3}]. +
-
-"_Ik denk dat het pas vanaf de onbelaste 4e generatie zal lukken om aan beide zijden de feiten en gebeurtenissen zo goed mogelijk in het juiste perspectief te (willen) zien en te plaatsen_".footnote:[eppeson marawasin - {ref1}]
-
-[big]#Voor de - eerste generatie -  Indische Nederlanders is naast de Japanse bezetting ook de periode augustus 1945 - 1950 een periode met opnieuw slachtoffers die niet vergeten mogen worden#. 
-
-Het is een tijdvak die niet wordt 'meegenomen' in de Nationale herdenking op 15 augustus. Waarom is onduidelijk.
-
-== De data
-Over welke data en periodes hebben we het precies? :
-
-- *15 augustus*, afhankelijk van de tijdzone 14 augustus, is V-J Day (Victory over Japan Day) footnote:[{vj}], de dag van de Japanse overgave. 
-
-- De formele datum van de overgave is *2 september*, waarop het bijbehorende document werd getekend in Tokyo Bay. Het [underline]#werkelijke moment# waarop de 2^de^ Wereld Oorlog tot een einde komt. 
-
-- Op *17 augustus* werd door Soekarno de Indonesische Republiek uitgeroepen onder druk van jonge revolutionairen. Uiteraard werd die niet door de nederlandse staat erkend. Door de chaos die volgde wordt 17 augustus ook gezien als de dag waarop de 'Bersiap'footnote:[{bersiap}] startte. Deze periode duurde grofweg 3 maanden, toen de Britten de Indonesische archipel verlieten en overlieten aan de hollanders. 
-
-- De onafhanklijkheidsstrijd van de Indonesiërs was nog lang niet gestreden en zou duren tot *27 december 1949*, de dag van de formele soevereiniteitsoverdracht aan de Republiek Indonesia.
-
-=== Politieke context
-Het is duidelijk dat de Nederlandse staat niet graag terug kijkt op de gebeurtenissen na augustus 1945. Het meest bekend zijn https://www.roelbazuin.nl/blog/nl_oorlog_194550_politionele_acties.html[de Politionele acties in 1947 en 1948^], de laatste geweldadige oorlogen van Nederland in Indonesië tegen de mensen die hun land na 350 jaar terug wilden.
-
-Het is een feit dat https://www.roelbazuin.nl/blog/herdenking.html[de eerste Nederlandse troepen al op 10 juni 1945 landden op Sumatra^]. Een maand daarvoor komen de eerste 40 P51D Mustangs aan bij PEP in Brisbane Australië,  die https://www.roelbazuin.nl/blog/nl_oorlog_194550_politionele_acties.html#122sqn[een belangrijke rol gaan tijdens de politionele acties^]. 14 september 1945 wordt de KNIL luitenant Westerling met een team van 4 Nederlandse militairen boven het vliegveld van Medan gedropt. 
-
-Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbereidingen om Nederlands-Indië weer aan https://www.roelbazuin.nl/blog/zwijgen.html#grondgebied_de_staat_en_de_koloni%C3%ABn[de lijst overzeese gebiedsdelen^] toe te voegen. Dan heb je grote pech wanneer je als Indo KNIL soldaat, net bevrijdt uit een Jappenkamp, in naam van koningin en vaderland moet meehelpen je voormalige buren, collega's en vrienden om zeep te helpen. 
-
-Grond voor een scala aan sentimenten.
-
-// einde herdenking
 // deel 2
 
 == Aantallen
