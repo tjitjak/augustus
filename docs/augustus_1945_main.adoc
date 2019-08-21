@@ -53,7 +53,7 @@ toc::[]
 
 // deel 1 Herdenking
 
-= De Nationale Herdenking
+= De Nationale Herdenking slachtoffers Nederlands-Indië
 
 include::augustus_1945_herdenking.adoc[tag=deel1]
 
@@ -69,14 +69,16 @@ include::augustus_1945_army_victims.adoc[tag=deel2]
 
 include::augustus_1945_civilian_victims.adoc[tag=deel3]
 
-//// 
+
 //deel 4
 
-== Na 1945 gevallen slachtoffers
+= Na 1945 gevallen slachtoffers
 
-=== Militaire slachtoffers
+== Militaire slachtoffers
 
-=== Bersiap
+todo
+
+== Bersiap
 
 [caption=]
 .Jonge revolutionairen in Soerabaja, eind 1945
@@ -93,11 +95,9 @@ Het voorgaande overziend lijkt mij een Nederlands slachtofferaantal van circa 5.
 :appendix-caption: Appx
 //:sectnums:
 //:leveloffset!: 
-== Bijlagen
-
-=== Casualties in Asia and the Pacific by nation and type
-
-include::includes/casualties_in_asia.adoc[tag=table]
+//== Bijlagen
+//=== Casualties in Asia and the Pacific by nation and type
+//include::includes/casualties_in_asia.adoc[tag=table]
 
 == Quotes
 
@@ -121,14 +121,13 @@ P.Lemon op indisch4ever.nu - 2013_footnote:[{ref1}]
 
 . Een beetje indo die de Jappenkampen heeft overleefd weet zijn weg wel te vinden. Zo iemand dopt zijn eigen boontjes. Is blij dat hij nog leeft. En hij haalt zijn neus niet op voor de geur van andijvie (of spruitjes). Zo iemand toch, heeft de lucht van lijken reeds ingeademdfootnote:[Ed Vos - {ref5}].
 
-////
-
 == Afkortingen
 [glossary]
 
 O.D.O.:: Nederlandse Opsporingsdienst Overledenen (ODO).  +
 In december 1945 opgerichte organisatie was belast met het verzamelen van betrouwbare gegevens over alle Nederlanders en Nederlandse onderdanen die na 7 december 1941 waren overleden of werden vermist. Helaas is van het O.D.O.-archief zeer weinig bewaard gebleven. 
 
+KNIL-ML:: Militaire Luchtvaart Koninklijk Nederlands Indisch Leger
 ML-KNIL::  Militaire Luchtvaart afdeling van het Koninklijk Nederlands Indisch Leger
 KNIL:: Koninklijk Nederlands-Indisch Leger
 

@@ -37,6 +37,7 @@
 :nidobersiap: http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html
 :vj: Victory over Japan Day - https://en.wikipedia.org/wiki/Victory_over_Japan_Day
 
+
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
 //Version date: {revdate} +
@@ -45,22 +46,24 @@
 
 // tag::deel1[]
 
+:slachtoffer: Slachtoffer is een persoon die een schokkende gebeurtenis (buiten de gebruikelijke menselijke ervaring) heeft meegemaakt, daarvan getuige is geweest of erover gehoord heeft en daarbij is gedood of gewond en/of benadeeld, en/of daarop met een intens gevoel van machteloosheid en intense angst heeft gereageerd. https://nl.wikipedia.org/wiki/Slachtoffer
+
 [big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
 
 [link=https://15augustus1945.nl]
 //image::https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.4en5mei.nl%2Ftmp%2Fmedia%2Fafbeeldingen%2Findieherdenkingwebsite_w1500_h844_bg.jpg&f=1[,600,role=right]
 image::https://15augustus1945.nl/wp-content/uploads/2014/07/STICHTING-HERDENKING-15-AUGUSTUS-1945_2.jpg[,600,role=right]
 
-Op 15 augustus 2019 was de 74^ste^ Nationale Herdenking _van [underline]#'álle slachtoffers# van de Japanse bezetting van Nederlands-Indië en de directe gevolgen daarvan', 'de Japanse capitulatie en bevrijding van Nederlands-Indië in 1945_'footnote:[https://15augustus1945.nl/]. 
+Op 15 augustus 2019 was de 74^ste^ Nationale Herdenking _van [underline]#'álle slachtoffers# footnote:[{slachtoffer}] van de Japanse bezetting van Nederlands-Indië en de directe gevolgen daarvan', 'de Japanse capitulatie en bevrijding van Nederlands-Indië in 1945_'footnote:[https://15augustus1945.nl/]. 
 
 De herdenking geeft - jammer genoeg - nog altijd aanleiding voor controversies. https://www.roelbazuin.nl/stamboom/augustus.html[Wel begrijpelijk^]. 
 Gegeven de https://www.roelbazuin.nl/stamboom/#_geschiedenis[historie^] van Indische-Nederlanders. 
 Daaronder https://www.roelbazuin.nl/stamboom/#_familie_verhalen[een deel van mijn familie^]. 
 
-[big]*Historie die vergeten is. Wordt.*
-
 Aanleidingen zijn de datum tot waar geteld wordt (15 augustus) en de daarmee samenhangende slachtoffers. 
 Het steekt, zwak gezegd, dat de periode augustus 1945 - 1950 niet meetelt bij de Nationale Herdenking. Als je het 'conflict' om Nieuw-Guinea meerekend, dan moeten we doortellen tot 1963.
+
+[big]*Historie die vergeten is. Wordt.*
 
 [quote]
 "_Misschien moeten we wat ruimer kijken dan slechts het tijdvenster van een mensenleven, willen we het historische perpectief behouden_"footnote:[wouter - {ref3}]. +
@@ -119,6 +122,3 @@ Het plan is om aanvullende documenten te maken met aantal slachtoffers voor en n
 * Bersiap
 * KNIL
 * KL
-
-
-

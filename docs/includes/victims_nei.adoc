@@ -6,7 +6,7 @@
 |===
 |Nation 	|Army Killed/ missing 	|Army Prisoners of war 	|Civilian deaths
 
-|Netherlands East Indies |8.498^a^ |42.233^b^ |4.000.000^c^
+|Netherlands East Indies |8.498^a,^^b^ |42.233^b^ |4.000.000^c^
 |===
 
 a. Exclusief militaire slachtoffers van de periode tussen 15 augustus 1945 en 1 januari 1963, waaronder het conflict om Nieuw-Guinea in 1962. Totaal 6.177 (Kolonel b.d. J.W. de Leeuw) +
