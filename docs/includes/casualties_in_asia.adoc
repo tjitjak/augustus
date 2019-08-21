@@ -27,8 +27,10 @@
 [link=https://www.cwgc.org/]
 image::https://www.cwgc.org/-/media/images/cwgc/pages/thumbnails/find-cemeteries/find-cemeteries-and-memorials.ashx?h=322&w=564&la=en&hash=533269436EA309E11B8F5BB0C2BB0E4A2659F55F[]
 
+// Casualties footnote:[The Pacific War Online Encyclopedia http://www.pwencycl.kgbudge.com/C/a/Casualties.htm] in the Pacific War numbered around 36.000.000 or 50% of the total casualties of the Second World War.
 // tag::table[]
-Casualties footnote:[The Pacific War Online Encyclopedia http://www.pwencycl.kgbudge.com/C/a/Casualties.htm] in the Pacific War numbered around 36.000.000 or 50% of the total casualties of the Second World War.
+Het aantal militaire en burger slachtoffers in de Pacific regio is enorm: rond 36.000.000.
+Anders gezegd: 50% van alle slachtoffers in de tweede wereldoorlog footnote:[The Pacific War Online Encyclopedia http://www.pwencycl.kgbudge.com/C/a/Casualties.htm]
 
 [cols="~,~,~,~,~",options=header]
 |===

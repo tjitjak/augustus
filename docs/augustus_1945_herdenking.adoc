@@ -51,7 +51,7 @@
 //image::https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.4en5mei.nl%2Ftmp%2Fmedia%2Fafbeeldingen%2Findieherdenkingwebsite_w1500_h844_bg.jpg&f=1[,600,role=right]
 image::https://15augustus1945.nl/wp-content/uploads/2014/07/STICHTING-HERDENKING-15-AUGUSTUS-1945_2.jpg[,600,role=right]
 
-Op 15 augustus was de 74^ste^ Nationale Herdenking _van [underline]#'álle slachtoffers# van de Japanse bezetting van Nederlands-Indië en de directe gevolgen daarvan', 'de Japanse capitulatie en bevrijding van Nederlands-Indië in 1945_'footnote:[https://15augustus1945.nl/]. 
+Op 15 augustus 2019 was de 74^ste^ Nationale Herdenking _van [underline]#'álle slachtoffers# van de Japanse bezetting van Nederlands-Indië en de directe gevolgen daarvan', 'de Japanse capitulatie en bevrijding van Nederlands-Indië in 1945_'footnote:[https://15augustus1945.nl/]. 
 
 De herdenking geeft - jammer genoeg - nog altijd aanleiding voor controversies. https://www.roelbazuin.nl/stamboom/augustus.html[Wel begrijpelijk^]. 
 Gegeven de https://www.roelbazuin.nl/stamboom/#_geschiedenis[historie^] van Indische-Nederlanders. 
@@ -84,19 +84,18 @@ Over welke data en periodes hebben we het precies? :
 
 - De onafhanklijkheidsstrijd van de Indonesiërs was nog lang niet gestreden en zou duren tot *27 december 1949*, de dag van de formele soevereiniteitsoverdracht aan de Republiek Indonesia footnote:pondaag[].
 
-=== Politieke context
+== Politieke context
 Het is duidelijk dat de Nederlandse staat niet graag terug kijkt op de gebeurtenissen na augustus 1945. Het meest bekend zijn https://www.roelbazuin.nl/blog/nl_oorlog_194550_politionele_acties.html[de Politionele acties in 1947 en 1948^], de laatste geweldadige oorlogen van Nederland in Indonesië tegen de mensen die hun land na 350 jaar terug wilden.
 
 - Het is een gegeven dat https://www.roelbazuin.nl/blog/herdenking.html[de eerste Nederlandse troepen al op 10 juni 1945 landden op Sumatra^]. 
 - Een maand daarvoor komen de eerste 40 P51D Mustangs aan bij PEP in Brisbane Australië,  die https://www.roelbazuin.nl/blog/nl_oorlog_194550_politionele_acties.html#122sqn[een belangrijke rol gaan tijdens de politionele acties^]. 
 - 14 september 1945 wordt de KNIL luitenant Westerling met een team van 4 Nederlandse militairen boven het vliegveld van Medan gedropt. 
 
-Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbereidingen om Nederlands-Indië weer aan https://www.roelbazuin.nl/blog/zwijgen.html#grondgebied_de_staat_en_de_koloni%C3%ABn[de lijst overzeese gebiedsdelen^] toe te voegen. 
+Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbereidingen om Nederlands-Indië weer aan https://www.roelbazuin.nl/blog/zwijgen.html#grondgebied_de_staat_en_de_koloni%C3%ABn[de lijst overzeese gebiedsdelen^] toe te voegen nog voordat nederland was bevrijd en de oorlog in Europa was beëindigd. 
 
 Als Indische-Nederlander heb je grote pech wanneer je als Indo KNIL soldaat, net bevrijd uit een Jappenkamp, in naam van koningin en vaderland moet meehelpen je voormalige buren, collega's en vrienden om zeep te helpen.
 
 Voldoende grond voor een breed scala aan sentimenten.
-
 // end::deel1[]
 
 .Updates

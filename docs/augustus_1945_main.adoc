@@ -48,88 +48,29 @@ toc::[]
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
 //Version date: {revdate} +
-
+ 
 #woii #herdenken #gedenken #nadenken
 
 // deel 1 Herdenking
 
+= De Nationale Herdenking
+
 include::augustus_1945_herdenking.adoc[tag=deel1]
 
 // deel 2
-
-== Aantallen
-
-////
-include::includes/victims_nei.adoc[]
-include::includes/pow_nei.adoc[]
-////
+// Militaire slachtoffers
+// deel inleiding meegenomen
+.[big]*Wie worden er precies herdacht?*
 
 include::augustus_1945_army_victims.adoc[tag=deel2]
 
 // deel 3
+// Burgerslachtoffers
 
-=== Burgerslachtoffers
+include::augustus_1945_civilian_victims.adoc[tag=deel3]
 
-De UN spreekt van 14.800 slachtoffers onder geïnterneerde Europese burgers. In onderstaande tabel wordt op basis van diverse bronnen een boven- en ondergrens aangegeven.
-
-.Geïnterneerde Europese burgers
-[cols="~,~,~,~",width=60%]
-|===
-|- |Totaal|Omge komen  | Opmerkingen
-
-|Europese Burgers	|96.400-110.000	 |10.580-16.800	|Schattingen. Japanse stukken  verloren gegaan
-|Java	|82.600				||ca. 29.000 mannen, ca. 25.000 vrouwen en ca. 29.000 kinderen
-|Sumatra	|13.200	|			|1.200 personen van andere nationaliteit (w.o. ca. 700 Britten)
-|Grote Oost	|4.140|				|Op Celebes geconcentreerd, uitgezonderd ca. 500 op Ambon
-|Borneo	|500|				|300 personen in juli ’42 naar Brits-Borneo
-|===
-
-// tot 1908
-
-=== Buitenkampers
-
-Hoeveel niet-geïnterneerde (Indo-)Europeanen er in totaal van de honger en andere ontberingen zijn omgekomen is niet bekend. 
-Eind 1948 waren er in heel Indië nog circa 2.500 Europeanen zoek, wo personen in die in de Japanse bezettingstijd spoorloos waren verdwenen. 
-
-[cols="~,~,~,~,~",width=60%]
-|===
-|-	|Totaal	|Om gekomen	|Type	|Opmerkingen
-
-|niet-geïnterneerde Indo-Europeanen	|220.000-240.000	|3.500	|Buiten kampers	|Slachtoffers Bersiap op 3.500 geschat (ODO). 
-|niet-geïnterneerde Indo-Europeanen		||20.000|Buiten kampers		|Dit aantal (Bussemaker) wordt gezien als zeer discutabel, doordat onderbouwing ontbreekt.
-|Arrestaties Kenpeitai	|15.000	|12.000	|Buiten kampers	|(Indo-)Europeanen, Indonesiërs en Chinezen.  5.000 werden geëxecuteerd. 7000 stierven in gevangenschap
-|
-|===
-
-
-=== Indonesiërs
-
-De Indonesische regering schatte het totale dodental begin jaren 1950 op 4 miljoen, in lijn met het UN rapport. 
-
-[cols="~,~,~,~,~",width=60%]
-|===
-|-	|Totaal	|Om gkomen	|Type	|Opmerkingen
-
-|Javanen en Madoerezen		||2,5-4 milj	|Indonesiërs	|Voornamelijk door honger
-|Romusha's Java	|2,6_tot_12,5 milj	|8.441	|Indonesiërs	|van hoogleraar caroline tsai
-|Romusha's Buitengewesten	|300.000	|165.000	|Indonesiërs	|oa Birma
-|Romusha's birma		||2.800	|Indonesiërs	|caroline tsai
-|Romusha's borneo en halmaheira		||12.100	|Indonesiërs	|caroline tsai
-|Romusha's andere nationaliteiten	|190.000	|152.000	|Indonesiërs	|Chinezen, Maleiers en Tamils naar Birma
-|Heiho's	|60.000	|32.500	|Indonesiërs|	
-|Heiho ex KNIL	|15.000	|7.500	|Indonesiërs|	
-|===
-
-=== 'Comfort Women' / 'Troostmeisjes'
-
-[cols="~,~,~,~,~",width=60%]
-|===
-|-	|Totaal	|Om gekomen	|Type	|Opmerkingen
-
-|Europese vrouwen	|200-300|		|Dwang prostituees	|Japanse bordelen in Nederlands-Indië
-|Koreaanse vrouwen	|80.000|		|Dwang prostituees	|August 14 marked the 1400th Wednesday rally, which started 27 years ago, demanding the Japanese government a formal apology and proper compensation for its wartime sexual enslavement.
-|Japanse of de Taiwanese vrouwen	|20.000|		|Dwang prostituees	|afkomstig uit de door Japan bezette gebieden
-|===
+//// 
+//deel 4
 
 == Na 1945 gevallen slachtoffers
 
@@ -180,8 +121,15 @@ P.Lemon op indisch4ever.nu - 2013_footnote:[{ref1}]
 
 . Een beetje indo die de Jappenkampen heeft overleefd weet zijn weg wel te vinden. Zo iemand dopt zijn eigen boontjes. Is blij dat hij nog leeft. En hij haalt zijn neus niet op voor de geur van andijvie (of spruitjes). Zo iemand toch, heeft de lucht van lijken reeds ingeademdfootnote:[Ed Vos - {ref5}].
 
+////
+
 == Afkortingen
 [glossary]
 
 O.D.O.:: Nederlandse Opsporingsdienst Overledenen (ODO).  +
 In december 1945 opgerichte organisatie was belast met het verzamelen van betrouwbare gegevens over alle Nederlanders en Nederlandse onderdanen die na 7 december 1941 waren overleden of werden vermist. Helaas is van het O.D.O.-archief zeer weinig bewaard gebleven. 
+
+ML-KNIL::  Militaire Luchtvaart afdeling van het Koninklijk Nederlands Indisch Leger
+KNIL:: Koninklijk Nederlands-Indisch Leger
+
+NEI:: Netherlands East Indies

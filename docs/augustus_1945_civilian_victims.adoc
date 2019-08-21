@@ -44,10 +44,12 @@
 #woii #herdenken #nadenken #slachtoffers #burgers #comfortwomen
 
 => deel 3
-
 .Japanese troops entering Surabaya, Indonesia. 
 image::https://i.pinimg.com/736x/45/cc/ef/45ccefe32c7bdb427fad880eea5f6588--east-indies-surabaya.jpg[,600,float=right]
 De Nationale herdenking heeft als uitgangspunt het gedenken van [underline]*'álle slachtoffers van de Japanse bezetting* in Nederlands-Indië', waaronder burgerslachtoffers. 
+
+// tag::deel3[]
+== Burgerslachtoffers
 
 China heeft 18.000.000 burgerslachtoffers te betreuren, India 2.000.000 en de Philipijnen 1.000.000. 
 De UN spreekt van 4.000.000 Indonesische burgerslachtoffers en 14.800 slachtoffers onder geïnterneerde Europese burgers in NEI.
@@ -56,8 +58,6 @@ Naar schatting zijn 200.000 vrouwen en meisjes als dwangprostituee ('Comfort Wom
 
 In verhouding getalsmatig klein, de impact was op veel van de in Nederlands-Indië geboren Europese en Nederlands-Indische bevolkinsgroepen enorm. Zij raakten in een klap hun vader- én moederland kwijt. +
 Voor de meeste Indo-Europese families, https://www.roelbazuin.nl/stamboom/[zoals die van mij^], gaat hun geschiedenis eeuwen terug. 
-
-== Burgerslachtoffers
 
 === Indonesiërs
 
@@ -128,6 +128,7 @@ Schattingen van omgekomen Europese burgers in Jappenkampen liggen tussen 10.500 
 // tot 1908
 
 === 'Buitenkampers'
+
 Met _'Buitenkampers'_ worden de Europese ic. Nederlands-Indische bevolkingsgroepen bedoeld. Personen die de Japanse bezetting [underline]#niet# in een kamp hebben doorgemaakt.
 
 [NOTE]
@@ -160,7 +161,7 @@ Nederlands-Indië was het enige land waar westerse vrouwen op grote schaal als d
 
 *"_August 14 marked the 1400th Wednesday rally in Korea, which started 27 years ago, demanding the Japanese government a formal apology and proper compensation for its wartime sexual enslavement_"* footnote:['Comfort Women' Statue Unveiled on Seoul's Namsan Mountain - https://www.youtube.com/watch?v=o_uzbJbBeBk&feature=youtu.be]. +
 Zuid-Korea en Japan zijn hierover in 2019 in een bittere handelsoorlog terecht gekomen. 
-
+ 
 [cols="~,~,~,~,~",%autowidth]
 |===
 |-	|Totaal	|Om gekomen	|Groep	|Opmerkingen
@@ -170,3 +171,5 @@ Zuid-Korea en Japan zijn hierover in 2019 in een bittere handelsoorlog terecht g
 |Koreaanse vrouwen	|80.000|		|Dwang prostituees	|
 |Japanse of de Taiwanese vrouwen	|20.000|		|Dwang prostituees	|afkomstig uit de door Japan bezette gebieden
 |===
+
+// end::deel3[]
