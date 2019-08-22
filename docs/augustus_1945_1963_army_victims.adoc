@@ -37,6 +37,8 @@
 :nidobersiap: http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html
 :vj: Victory over Japan Day - https://en.wikipedia.org/wiki/Victory_over_Japan_Day
 
+// https://www.4en5mei.nl/media/documenten/kransleggingdecijfers(1).pdf
+
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
 //_^Version^ ^date:^ ^{jbake-revdate}^_ +
@@ -45,27 +47,61 @@
 
 => Deel 4
 
-.C.W. (Bas) Bastiaans (opa) met P. (Tinus) Guit
-[link=https://www.roelbazuin.nl/stamboom/timeline_cwbastiaans_mlknil_fukuoka_medan.html]
-//image::https://www.roelbazuin.nl/assets/Bastiaans_Carol_docs/Bastiaans_Carol_Wilhelm_en_onbekende_collega.png[,500,float=right]
+[big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
+
+.Mustang P-51D op Medan (opa rechts onder)
+[link=https://www.roelbazuin.nl/stamboom/fotos_122sqn.html]
+image::https://roelbazuin.nl/assets/P51/medan/t/P51_bastiaans2_t.jpg[,500,float=right]
 
 == 'Politionele acties'
+:lara: Hoe Nederland 350 jaar lang oorlog voerde tegen een volk dat vrij wilde zijn, maar dit lijkt te vergeten in een grootschalig onderzoek - Lara Mariette Nuberg https://historibersama.com/the-research-neglects-350-years-of-colonial-history/?lang=nl
+:polac: Politionele acties 1947 en 1948 - De laatste geweldadige oorlogen van Nederland in Indonesië - Rol van 122 NEI Sqn - https://www.roelbazuin.nl/blog/nl_oorlog_194550_politionele_acties.html
+:eerste: Operatie Product: https://en.wikipedia.org/wiki/Operation_Product
+:tweede: Operatie Kraai: https://en.wikipedia.org/wiki/Operation_Kraai
+:knil: Royal Netherlands East Indies Army - https://en.wikipedia.org/wiki/Royal_Netherlands_East_Indies_Army
+:rapwi: Recovery of Allied Prisoners of War - https://www.roelbazuin.nl/blog/in_een_b25_naar_australie.html
 
+De Staat der Nederlanden voerde tussen 1945 en 1950 haar laatste geweldadige oorlog in Indonesië footnote:[{polac}] tegen de mensen die hun land na 350 jaar terug wilden footnote:[{lara}]
+
+.Brencarriers Andjing Nica
+[link=https://www.nederlandsekrijgsmacht.nl/index.php/kl/330-eenheden-nederlandse-leger/eenheden-knil/diverse-eenheden/1201-andjing-nica-bataljon]
+image::https://www.nederlandsekrijgsmacht.nl/images/brencarriers_in_actie.jpg[,500,float=right]
+
+Op 17 augustus 1945 werd de Republiek Indonesië uitgeroepen die niet door Nederland werd erkend. Er ontstaat een bloederige strijd, de ‘Bersiap periode’, die duurt tot het voorjaar van 1946, gevolgd door 2 ‘politionele acties’ en andere militaire confrontaties tot begin 1950.
+
+De eerste politionele actie footnote:[{eerste}] begon op 21 juli 1947 en duurde tot 5 augustus 1947. Onder de codenaam "operatie Product" was het de bedoeling om cultuurgebieden, rubber, tabak, suiker, thee, etc. in handen te krijgen om daarmee de kosten van de oorlog (3 miljoen gulden per dag) te helpen betalen.
+
+De tweede politionele actie begon op 19 december 1948 onder de codenaam Kraai footnote:[{tweede}]. In een bliksemaanval met luchtlandingstroepen werden Soekarno en andere republikeinse regeringsleiders gevangen genomen. 
+
+De militairen van het koloniale leger, het KNILfootnote:[{knil}], werden direct uit Japanse krijgsgevangenschap https://www.roelbazuin.nl/blog/in_een_b25_naar_australie.html[RAPWI] weer ingezet. Grootscheepse troepenzendingen uit Nederland waren echter nodig. Vond men.
 
 include::includes/victims_nei_45_63.adoc[tag=polactie]
 
-== Nieuw Guinea
+In de periode 1945 tot 1950 zijn er naar schatting 100.000 Indonesische militairen omgekomen.
+
+include::includes/victims_nei_45_63.adoc[tag=indon]
+
+== Militaire slachtoffers periode 1945 - 1963
+
+Op het Nationaal Indië-monument in Roermond zijn ca. 6.100 namen opgenomen. In totaal zou het gaan om 6229 militairen footnote:[Slachtoffers Indië en Nieuw-Guinea - https://www.trouw.nl/nieuws/slachtoffers-indie-en-nieuw-guinea-herdacht~b28fa703/]
+
+include::includes/victims_nei_45_63.adoc[tag=45-63]
+
+== West-Irian vh 'Westelijk Nieuw-Guinea'
 :nwguinea: https://nl.wikipedia.org/wiki/Nederlands-Nieuw-Guinea
 :anderetijden: https://anderetijden.nl/aflevering/554/Het-einde-van-Nieuw-Guinea-een-prins-in-de-wereldpolitiek
 :papua: http://west-papua.nl/Bezoekersbijdragen/gevallenen/gevallenenNederlandsNieuwGuinea.htm
 :historie: https://www.landenweb.nl/papoea-nieuw-guinea/geschiedenis/
+:pace: UNTEA draagt zorg voor overdracht gezag  - https://www.papuaerfgoed.org/nl/UNTEA_draagt_zorg_voor_overdracht_gezag+
 
-.Papua New Guinea
+.West-Irian
 [link=https://nl.wikipedia.org/wiki/Papoea-Nieuw-Guinea]
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LocationPapuaNewGuinea.svg/320px-LocationPapuaNewGuinea.svg.png[,role=right]
 
 Nu de provincies Papoea (Pulau Irian) en West-Papoea (Papua Barat) van Indonesië footnote:[{nwguinea}].
 Papoea-Nieuw-Guinea is rijk aan natuurlijke grondstoffen, zoals ertsen, gas, vis en hout.
+
+Na de Indonesische onafhankelijkheidsoorlog (1945-1949) was alleen Nieuw-Guinea in deze regio onder Nederlands bestuur gebleven footnote:[{pace}].
 
 "In de jaren tussen 1950 en 1962 werd de relatie tussen Indonesië en Nederland gekenmerkt door toenemende vijandelijkheden. Nederland stuurde in de periode 1961-1962 bijna tienduizend Nederlandse militairen naar Nieuw-Guinea, waarvan een deel dienstplichtig. Tot dan toe werden voornamelijk manschappen van de marine gestuurd. Vanaf 1962 gingen veel soldaten van de landmacht naar Nieuw-Guinea. footnote:[{anderetijden}].
 
@@ -74,13 +110,8 @@ De aanwezige Nederlandse militairen moesten jacht maken op Indonesische militair
 Op 15 augustus 1960 verbrak Indonesië de betrekkingen met Nederland. 
 Op 15 januari 1962 kwam het tot een eerste gewapend treffen, de Slag bij Vlakke Hoek. Hierbij werden enkele Indonesische motortorpedoboten die infiltranten aan land wilden zetten, door de Nederlandse marine onderschept en werd een van die vaartuigen tot zinken gebracht. Vervolgens namen de gewapende infiltraties, vooral door parachutisten, in intensiteit toe." 
 
-Op het Nationaal Indië-monument in Roermond zijn ca. 6.100 namen opgenomen.
 
-include::includes/victims_nei_45_63.adoc[tag=45-63]
-
-
-
-include::includes/victims_nei_45_63.adoc[tag=indon]
+include::includes/victims_nei_45_63.adoc[tag=papua]
 
 == Afkortingen
 [glossary]
@@ -90,5 +121,6 @@ In december 1945 opgerichte organisatie was belast met het verzamelen van betrou
 
 ML-KNIL::  Militaire Luchtvaart afdeling van het Koninklijk Nederlands Indisch Leger
 KNIL:: Koninklijk Nederlands-Indisch Leger
+MLD:: Marine Luchtvaartdienst 
 
 NEI:: Netherlands East Indies
