@@ -1,0 +1,61 @@
+//= Slachtoffers in NEI
+//pow_nei
+
+// tag::45-63[]
+Periode 15 augustus 1945 en 1 januari 1963 (Kolonel b.d. J.W. de Leeuw). 
+Politionele acties  inclusief het conflict om Nieuw-Guinea in 1962
+
+.Militaire slachtoffers 'Politionele acties' en  Nieuw-Guinea 1945 - 1963
+[cols="~,~",%autowidth]
+|===
+|Omschrijving|Omgekomen 
+|Gevechtsverliezen (inbegrepen vermoord)	|3.281
+|Niet-gevechtsverliezen (ziektes, ongevallen, executies etc.)	|2.134
+|Doodsoorzaak onbekend	|762
+>|Totaal 1945 – 1963	|6.177
+|===
+// end::45-63[]
+
+// tag::polactie[]
+.Militaire slachtoffers 'Politionele acties' 1946-1949
+[cols="~,~,~,~,~",%autowidth]
+|===
+|-|Totaal	|Omgekomen | Ziekte en ongeval | Totaal
+
+|KL             |70.000	|1602 |907 | 2.509
+|KNIL           |40.000	|722 |1098 | 1.802
+|Mariniersbrigade|5.000	 |155 |101 | 256
+>|Totaal | 115.000 | 2.479 | 2.106 | 4.585
+|===
+// end::polactie[]
+
+// tag::indon[]
+.Indonesische militaire en burger slachtoffers 1945-1949
+[cols="~,~",%autowidth]
+|===
+|Omschrijving|Omgekomen 
+|Republikeinse strijdkrachten|100.000 footnote:[L.de Jong, who in a footnote to his Koninkrijk der Nederlanden in de Tweede Wereldoorlog claimed that 100,000 was the generally accepted number]
+|Republikeinse strijdkrachten Java en Sumatra | 47.000 footnote:[Marsroutes en Dwaalsporen (1992) ,Petra Groen: van 1 januari tot 10 augustus 1949]
+//|burgerbevolking op Java |10.000 - 20.000
+|Burgerbevolking totaal|250.000 
+|===
+// end::indon[]
+
+
+// tag::eur4546[]
+.Europese burgerslachtoffers november 1945 - mei 1946 (Bersiap)
+[cols="~,~,~,~,~",options=header,%autowidth]
+|===
+|- | Aantal| Omgekomen | Groep | Opmerkingen
+|Europese Burgers > nov 1945	|50.000	|2.000 |Burgergeïnterneerden |
+Door Indonesische nationalisten Dit aantal nam snel af door vertrek van Indo-Europeanen. Bussemaker: omgekomen door ziekte en/of ouderdom gevelde Nederlanders in de Bersiapkampen voornamelijk ouderen en kinderen. Niet in genoemde 3.500 Bersiapslachtoffers
+
+|niet-geïnterneerde Indo-Europeanen	|220.000-240.000	|3.500	|Buiten kampers	|Hoeveel niet-geïnterneerde (Indo-)Europeanen er in totaal van de honger en andere ontberingen zijn omgekomen is niet bekend.  Slachtoffers Bersiap op 3.500 geschat (ODO). Eind 1948 waren er in heel Indië nog circa 2.500 Europeanen zoek, wo personen in die in de Japanse bezettingstijd spoorloos waren verdwenen. 
+
+|Bersiap slachtoffers >1945-1946	|	|11.262	|Buitenkampers |ODO  May 1947. working from lists of registered citizens. We shall never know how many unregistered Eurasians were involved.
+
+|Bersiap slachtoffers >1945-1946	|	|20000 – 30000	|Buitenkampers | William H Frederick (I4E)
+
+|Bersiap slachtoffers >1945-1946	|300.000	|28.000	|Buitenkampers |Indische Pensioenbond. 8,000 deaths and 20,000 missing. Niemand lijkt te kunnen aangeven hoe dit cijfer tot stand is gekomen en wat de oorspronkelijke bron van deze bewering is.
+|===
+// end::eur4546[]
