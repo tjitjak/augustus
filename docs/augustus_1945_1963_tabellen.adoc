@@ -1,0 +1,93 @@
+= Project Augustus - Statistiek
+.
+2019-08-17
+:author: Roel Bazuin
+// custom meta
+// Opmaak
+:source-highlighter: rouge
+:icons: font
+// turn section titles into . links
+:sectlinks:
+//:sectnums:
+//:leveloffset:
+:allow-uri-read:
+:description:  augustus herdenkingen
+:jbake-tags: blog,augustus
+// Type 
+// :jbake-type: post
+//:jbake-type: page
+// Status
+// :jbake-status: published
+// :jbake-status: draft
+// - providing content date is equal to or past current date content will be considered published and included in the published collections
+:publish_date: 2019-08-17
+:revdate: 2019-08-21
+//
+//_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
+//Artikelen over '{author_name}' door {author} +
+//Version date: {revdate} +
+ 
+#woii #herdenken #gedenken #nadenken
+
+// Deel 2
+include::includes/casualties_in_asia.adoc[tag=table]
+include::includes/victims_nei.adoc[]
+include::includes/pow_nei.adoc[]
+
+// deel 3
+[cols="~,~,~,~,~",%autowidth]
+|===
+|-	|Totaal	|Omgekomen	|Groep	|Opmerkingen
+
+|Javanen en Madoerezen		||2,5 - 4 miljoen	|Indonesiërs	|Voornamelijk door honger
+|||||
+|Romusha's Java	|2,6_tot_12,5 milj	|8.441	|Indonesiërs	|van hoogleraar caroline tsai
+|Romusha's Buitengewesten	|300.000	|165.000	|Indonesiërs	|oa Birma
+|Romusha's birma		||2.800	|Indonesiërs	|caroline tsai
+|Romusha's borneo en halmaheira		||12.100	|Indonesiërs	|caroline tsai
+|Romusha's andere nationaliteiten	|190.000	|152.000	|Indonesiërs	|Chinezen, Maleiers en Tamils naar Birma
+|||||
+|Heiho's	|60.000	|32.500	|Indonesiërs|	
+|Heiho ex KNIL	|15.000	|7.500	|Indonesiërs|
+|||||
+|PETA |57.000 ||Indonesiërs| By the end of the war, there were a total of 69 battalions (daidan) in Java (around 37,000 men) and Sumatra (approximately 20,000 men)	
+|===
+
+
+.Geïnterneerde Europese burgers
+[cols="~,~,~,~",%autowidth]
+|===
+|- |Totaal|Omge komen  | Opmerkingen
+
+|Europese Burgers	|96.400-110.000	 |10.580-16.800	|Schattingen. Japanse stukken  verloren gegaan
+|Java	|82.600				||ca. 29.000 mannen, ca. 25.000 vrouwen en ca. 29.000 kinderen
+|Sumatra	|13.200	|			|1.200 personen van andere nationaliteit (w.o. ca. 700 Britten)
+|Grote Oost	|4.140|				|Op Celebes geconcentreerd, uitgezonderd ca. 500 op Ambon
+|Borneo	|500|				|300 personen in juli ’42 naar Brits-Borneo
+|===
+
+[cols="~,~,~,~,~",%autowidth]
+|===
+|-	|Totaal	|Om gekomen	|Groep	|Opmerkingen
+
+|niet-geïnterneerde Indo-Europeanen	|220.000-240.000	|3.500	|Buiten kampers	|Slachtoffers Bersiap op 3.500 geschat (ODO). 
+|niet-geïnterneerde Indo-Europeanen		||20.000|Buiten kampers		|Dit aantal (Bussemaker) wordt gezien als zeer discutabel, doordat onderbouwing ontbreekt.
+|Arrestaties Kenpeitai footnote:[The Kenpeitai (憲兵隊, /kɛnpeɪˈtaɪ/)) was the military police arm of the Imperial Japanese Army from 1881 to 1945 - https://en.wikipedia.org/wiki/Kempeitai]	|15.000	|12.000	|Buiten kampers	|(Indo-)Europeanen, Indonesiërs en Chinezen.  5.000 werden geëxecuteerd. 7000 stierven in gevangenschap
+|
+|===
+
+[cols="~,~,~,~,~",%autowidth]
+|===
+|-	|Totaal	|Om gekomen	|Groep	|Opmerkingen
+
+|Europese vrouwen	|200-400|		|Dwang prostituees	|geïnterneerde Nederlands-Indische en Nederlandse vrouwen in Japanse bordelen in Nederlands-Indië
+|Indonesische vrouwen| 30.000||Dwang prostituees|Japanse bordelen in Nederlands-Indië
+|Koreaanse vrouwen	|80.000|		|Dwang prostituees	|
+|Japanse of de Taiwanese vrouwen	|20.000|		|Dwang prostituees	|afkomstig uit de door Japan bezette gebieden
+|===
+
+// deel 4
+include::includes/victims_nei_45_63.adoc[tag=polactie]
+include::includes/victims_nei_45_63.adoc[tag=indon]
+include::includes/victims_nei_45_63.adoc[tag=45-63]
+include::includes/victims_nei_45_63.adoc[tag=papua]
