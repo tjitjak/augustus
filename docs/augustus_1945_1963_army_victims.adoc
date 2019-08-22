@@ -46,7 +46,7 @@
 #woii #herdenken #gedenken #nadenken #slachtoffers #victims #militairen
 
 => Deel 4
-
+//// ////
 [big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
 
 .Mustang P-51D op Medan (opa rechts onder)
@@ -73,7 +73,7 @@ De eerste politionele actie footnote:[{eerste}] begon op 21 juli 1947 en duurde 
 
 De tweede politionele actie begon op 19 december 1948 onder de codenaam Kraai footnote:[{tweede}]. In een bliksemaanval met luchtlandingstroepen werden Soekarno en andere republikeinse regeringsleiders gevangen genomen. 
 
-De militairen van het koloniale leger, het KNILfootnote:[{knil}], werden direct uit Japanse krijgsgevangenschap https://www.roelbazuin.nl/blog/in_een_b25_naar_australie.html[RAPWI] weer ingezet. Grootscheepse troepenzendingen uit Nederland waren echter nodig. Vond men.
+De militairen van het koloniale leger, het KNILfootnote:[{knil}], werden direct uit Japanse krijgsgevangenschap https://www.roelbazuin.nl/blog/in_een_b25_naar_australie.html[(RAPWI)]footnote:[{rapwi}] weer ingezet. Grootscheepse troepenzendingen uit Nederland waren echter nodig. Vond men.
 
 include::includes/victims_nei_45_63.adoc[tag=polactie]
 
@@ -83,7 +83,8 @@ include::includes/victims_nei_45_63.adoc[tag=indon]
 
 == Militaire slachtoffers periode 1945 - 1963
 
-Op het Nationaal Indië-monument in Roermond zijn ca. 6.100 namen opgenomen. In totaal zou het gaan om 6229 militairen footnote:[Slachtoffers Indië en Nieuw-Guinea - https://www.trouw.nl/nieuws/slachtoffers-indie-en-nieuw-guinea-herdacht~b28fa703/]
+Op het Nationaal Indië-monument in Roermond zijn ca. 6.100 namen opgenomen. In totaal zou het gaan om 6229 militairen footnote:[Slachtoffers Indië en Nieuw-Guinea - https://www.trouw.nl/nieuws/slachtoffers-indie-en-nieuw-guinea-herdacht~b28fa703/], waarvan 176 op Nieuw Guinea tussen 1950 en 1963 (tabel 4)
+
 
 include::includes/victims_nei_45_63.adoc[tag=45-63]
 
@@ -105,13 +106,14 @@ Na de Indonesische onafhankelijkheidsoorlog (1945-1949) was alleen Nieuw-Guinea 
 
 "In de jaren tussen 1950 en 1962 werd de relatie tussen Indonesië en Nederland gekenmerkt door toenemende vijandelijkheden. Nederland stuurde in de periode 1961-1962 bijna tienduizend Nederlandse militairen naar Nieuw-Guinea, waarvan een deel dienstplichtig. Tot dan toe werden voornamelijk manschappen van de marine gestuurd. Vanaf 1962 gingen veel soldaten van de landmacht naar Nieuw-Guinea. footnote:[{anderetijden}].
 
-De aanwezige Nederlandse militairen moesten jacht maken op Indonesische militairen, een helse opdracht in de moeilijk begaanbare rimboe. Begin 1960 besloot het kabinet dat versterkingen nodig waren en begon met het zenden van Nederlandse dienstplichtigen. Ook werd het vliegkampschip de Hr. Ms. Karel Doorman in 1961 met militair materieel naar Nieuw-Guinea gestuurd.
+De aanwezige Nederlandse militairen moesten jacht maken op Indonesische militairen in de moeilijk begaanbare rimboe. Begin 1960 besloot het kabinet dat versterkingen nodig waren en begon met het zenden van Nederlandse dienstplichtigen. Ook werd het vliegkampschip de Hr. Ms. Karel Doorman in 1961 met militair materieel naar Nieuw-Guinea gestuurd. In totaal zouden 30.000 militairen op Nieuw Guinea zijn ingezet.
 
 Op 15 augustus 1960 verbrak Indonesië de betrekkingen met Nederland. 
 Op 15 januari 1962 kwam het tot een eerste gewapend treffen, de Slag bij Vlakke Hoek. Hierbij werden enkele Indonesische motortorpedoboten die infiltranten aan land wilden zetten, door de Nederlandse marine onderschept en werd een van die vaartuigen tot zinken gebracht. Vervolgens namen de gewapende infiltraties, vooral door parachutisten, in intensiteit toe." 
 
-
 include::includes/victims_nei_45_63.adoc[tag=papua]
+
+In 2019 is er -nog steeds - een bittere strijd gaande tussen de Republiek Indonesië en West Papua die streeft naar onafhankelijkheid footnote:[https://www.freewestpapua.org/news/] footnote:[https://www.theguardian.com/world/west-papua] footnote:[https://postcourier.com.pg/] footnote:[http://papua.news/]. https://twitter.com/FreeWestPapua[Twitter Free West Papua^]
 
 == Afkortingen
 [glossary]
