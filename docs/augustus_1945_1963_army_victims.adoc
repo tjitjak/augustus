@@ -53,6 +53,8 @@
 [link=https://www.roelbazuin.nl/stamboom/fotos_122sqn.html]
 image::https://roelbazuin.nl/assets/P51/medan/t/P51_bastiaans2_t.jpg[,500,float=right]
 
+// tag::deel4[]
+
 == 'Politionele acties'
 :lara: Hoe Nederland 350 jaar lang oorlog voerde tegen een volk dat vrij wilde zijn, maar dit lijkt te vergeten in een grootschalig onderzoek - Lara Mariette Nuberg https://historibersama.com/the-research-neglects-350-years-of-colonial-history/?lang=nl
 :polac: Politionele acties 1947 en 1948 - De laatste geweldadige oorlogen van Nederland in Indonesië - Rol van 122 NEI Sqn - https://www.roelbazuin.nl/blog/nl_oorlog_194550_politionele_acties.html
@@ -81,14 +83,14 @@ In de periode 1945 tot 1950 zijn er naar schatting 100.000 Indonesische militair
 
 include::includes/victims_nei_45_63.adoc[tag=indon]
 
-== Militaire slachtoffers periode 1945 - 1963
+=== Militaire slachtoffers periode 1945 - 1963
 
 Op het Nationaal Indië-monument in Roermond zijn ca. 6.100 namen opgenomen. In totaal zou het gaan om 6229 militairen footnote:[Slachtoffers Indië en Nieuw-Guinea - https://www.trouw.nl/nieuws/slachtoffers-indie-en-nieuw-guinea-herdacht~b28fa703/], waarvan 176 op Nieuw Guinea tussen 1950 en 1963 (tabel 4)
 
 
 include::includes/victims_nei_45_63.adoc[tag=45-63]
 
-== West-Irian vh 'Westelijk Nieuw-Guinea'
+=== West-Irian vh 'Westelijk Nieuw-Guinea'
 :nwguinea: https://nl.wikipedia.org/wiki/Nederlands-Nieuw-Guinea
 :anderetijden: https://anderetijden.nl/aflevering/554/Het-einde-van-Nieuw-Guinea-een-prins-in-de-wereldpolitiek
 :papua: http://west-papua.nl/Bezoekersbijdragen/gevallenen/gevallenenNederlandsNieuwGuinea.htm
@@ -114,6 +116,8 @@ Op 15 januari 1962 kwam het tot een eerste gewapend treffen, de Slag bij Vlakke 
 include::includes/victims_nei_45_63.adoc[tag=papua]
 
 In 2019 is er -nog steeds - een bittere strijd gaande tussen de Republiek Indonesië en West Papua die streeft naar onafhankelijkheid footnote:[https://www.freewestpapua.org/news/] footnote:[https://www.theguardian.com/world/west-papua] footnote:[https://postcourier.com.pg/] footnote:[http://papua.news/]. https://twitter.com/FreeWestPapua[Twitter Free West Papua^]
+
+// end::deel4[]
 
 == Afkortingen
 [glossary]

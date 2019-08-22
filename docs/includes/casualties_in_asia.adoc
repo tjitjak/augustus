@@ -32,6 +32,7 @@ image::https://www.cwgc.org/-/media/images/cwgc/pages/thumbnails/find-cemeteries
 Het aantal militaire en burger slachtoffers in de Pacific regio is enorm: rond 36.000.000.
 Anders gezegd: 50% van alle slachtoffers in de tweede wereldoorlog footnote:[The Pacific War Online Encyclopedia http://www.pwencycl.kgbudge.com/C/a/Casualties.htm]
 
+.Casualties in the Pacific War
 [cols="~,~,~,~,~",options=header]
 |===
 |Nation|Killed/missing|Wounded|Prisoners of war|Civilian deaths

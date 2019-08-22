@@ -76,19 +76,22 @@ include::augustus_1945_civilian_victims.adoc[tag=deel3]
 
 == Militaire slachtoffers
 
-todo
+include::augustus_1945_1963_army_victims.adoc[tag=deel4]
 
-== Bersiap
+== Burgerslachtoffers
+
+=== Bersiap
 
 [caption=]
 .Jonge revolutionairen in Soerabaja, eind 1945
 [link=https://javapost.nl/2014/02/07/bersiap-de-werkelijke-cijfers/]
 image::https://javapost.files.wordpress.com/2012/03/bersiap-soerabaja.jpg[]
-Bersiap is categorie 4 geweld.
 
 Gedurende meer dan een halve eeuw werd uitgegaan van de cijfers van de O.D.O., met de toevoeging van dr. L. de Jong dat het aantal van 3.400 aan de lage kant was. Het afgelopen decennium werd dit aantal zonder gedegen bronnenonderzoek opgehoogd tot 20 à 30.000. De conclusie van Frederick dat 10% van de Indo-Europeanen in de na-oorlogse jaren zou zijn omgekomen lijkt een ‘mooi’ afrondend gegeven, maar is historisch onverantwoordfootnote:[{ref5}].
 
 Het voorgaande overziend lijkt mij een Nederlands slachtofferaantal van circa 5.500 het meest reëel, namelijk de 3.500 “gedocumenteerde doden” plus omstreeks 2.000 vermistenfootnote:[Jeroen Kemperman - {ref6}]. 
+
+include::includes\victims_nei_45_63.adoc[tag=eur4546]
 
 :!sectnums!:
 
