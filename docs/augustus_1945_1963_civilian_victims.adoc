@@ -1,0 +1,62 @@
+= Project Augustus - Herdenking Nederlands-Indië 1945 - Burger slachtoffers tussen augustus '45 en 1963
+.
+2019-08-21
+:author: Roel Bazuin
+// custom meta
+// Opmaak
+:source-highlighter: rouge
+:icons: font
+// turn section titles into . links
+:sectlinks:
+//:sectnums:
+//:leveloffset:
+:allow-uri-read:
+:description:  augustus militaire slachtoffers
+:jbake-tags: blog,augustus
+// type
+:jbake-type: post
+//:jbake-type: page
+// Status
+:jbake-status: published
+// :jbake-status: draft
+// - providing content date is equal to or past current date content will be considered published and included in the published collections
+:publish_date: 2019-08-21
+:jbake-revdate: 2019-08-22
+//:imagesdir: 
+// referenties
+:ref1: ‘Moord op duizenden (Indische) Nederlanders was genocide’ - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/
+:ref2: https://www.thejakartapost.com/news/2013/11/12/the-untold-story-surabaya-battle-1945.html
+:ref3: Opmerkelijke feiten en zaken aangaande Nederlands Indië/Indonesië - https://indisch4ever.nu/2011/12/27/opmerkelijke-feiten-en-zaken-aangaande-nederlands-indieindonesie/
+:ref4: https://indisch4ever.nu/2013/11/21/the-bersiapdiscussion-as-revived-by-w-frederick/
+:ref4: 100.000: the magic victim number - https://www.kitlv.nl/blog-100-000-magic-victim-number/
+:ref5: Bersiap: de werkelijke cijfers (2014) - https://javapost.nl/2014/02/07/bersiap-de-werkelijke-cijfers/
+:ref6: De slachtoffers van de Bersiap - http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html
+//
+:bersiap: Bersiap - https://en.wikipedia.org/wiki/Bersiap
+:bersiapincijfers: Bersiap in cijfers - https://javapost.nl/2012/09/03/bersiap-in-cijfers/
+:nidobersiap: http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html
+:vj: Victory over Japan Day - https://en.wikipedia.org/wiki/Victory_over_Japan_Day
+
+//_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
+//Artikelen over '{author_name}' door {author} +
+_^Version^ ^date:^ ^{jbake-revdate}^_ +
+
+#woii #herdenken #nadenken #slachtoffers #burgers #comfortwomen
+
+=> deel 5
+
+
+== Bersiap
+
+[caption=]
+.Jonge revolutionairen in Soerabaja, eind 1945
+[link=https://javapost.nl/2014/02/07/bersiap-de-werkelijke-cijfers/]
+image::https://javapost.files.wordpress.com/2012/03/bersiap-soerabaja.jpg[]
+
+Gedurende meer dan een halve eeuw werd uitgegaan van de cijfers van de O.D.O., met de toevoeging van dr. L. de Jong dat het aantal van 3.500 Bersiap slachtoffers aan de lage kant was. 
+
+Het afgelopen decennium werd dit aantal zonder gedegen bronnenonderzoek opgehoogd tot 20 à 30.000. De conclusie van Frederick dat 10% van de Indo-Europeanen in de na-oorlogse jaren zou zijn omgekomen lijkt een ‘mooi’ afrondend gegeven, maar is historisch onverantwoordfootnote:[{ref5}].
+
+Het voorgaande overziend lijkt mij een Nederlands slachtofferaantal van circa 5.500 het meest reëel, namelijk de 3.500 “gedocumenteerde doden” plus omstreeks 2.000 vermistenfootnote:[Jeroen Kemperman - {ref6}]. 
+
+include::includes/victims_nei_45_63.adoc[tag=eur4546]
