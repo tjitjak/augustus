@@ -16,19 +16,27 @@
 |===
 // end::45-63[]
 
+// tag::papua[]
 // Papua Nieuw Guinea
-:papua: http://west-papua.nl/Bezoekersbijdragen/gevallenen/gevallenenNederlandsNieuwGuinea.htm
+:papua: Gevallenen Nederlands Nieuw Guinea - http://west-papua.nl/Bezoekersbijdragen/gevallenen/gevallenenNederlandsNieuwGuinea.htm
+:veteranen: Veteraneninstituut - https://www.veteraneninstituut.nl/missie/nieuw-guinea/
+:depot: http://www.hetdepot.com/NieuwGuinea.html
+:pace_papua: Nederlandse doden in Nieuw-Guinea van 1945 tot 1963  - https://papuaerfgoed.org/nl/node/20187
+:vnngm: ereniging Nederlands Nieuw-Guinea Militairen - http://www.vnngm.nl/
 
-.Militaire slachtoffers Papua Nieuw Guinea
+.Militaire slachtoffers Papua Nieuw Guinea 1950 - 1962
 [cols="~,~",%autowidth]
 |===
 |Omschrijving|Omgekomen 
 
-|KL en luchtmacht | 27
-|KNIL| 64
-|Marine| 79
-
+|Totaal Ingezet | 30.000 footnote:[{veteranen}]
+|KL en MLD | 27 footnote:papua[{papua}] / 27 footnote:pace[{pace_papua}]
+|KNIL| 64 footnote:papua[]
+|Marine| 79 footnote:papua[] / 76 footnote:pace[]
+|Papua Vrijwilligers Korps | 6 footnote:pace[]
 |===
+
+// end::papua[]
 
 // tag::polactie[]
 .Militaire slachtoffers 'Politionele acties' 1946-1949
