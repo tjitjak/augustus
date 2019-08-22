@@ -1,4 +1,4 @@
-= Herdenking slachtoffers van na Augustus 1945 - Pacific WOII - Militaire slachtoffers NEI
+= Project Augustus - Herdenking Nederlands-Indië 1945 - Slachtoffers Militairen vòòr 15 augustus '45
 .
 2019-08-19
 :author: Roel Bazuin
@@ -21,7 +21,7 @@
 //:jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
 :publish_date: 2019-08-20
-:revdate: 2019-08-20
+:jbake-revdate: 2019-08-22
 //:imagesdir: 
 // referenties 
 :ref1: ‘Moord op duizenden (Indische) Nederlanders was genocide’ - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/
@@ -39,7 +39,7 @@
 
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
-//Version date: {revdate} +
+_^Version^ ^date:^ ^{jbake-revdate}^_ +
 
 #woii #herdenken #gedenken #nadenken #slachtoffers #victims #militairen
 
