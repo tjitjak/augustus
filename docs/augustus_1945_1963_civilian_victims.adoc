@@ -24,7 +24,7 @@
 :jbake-revdate: 2019-08-22
 //:imagesdir: 
 // referenties
-:ref1: ‘Moord op duizenden (Indische) Nederlanders was genocide’ - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/
+:ref1: De Indonesische vrijheidsstrijd bestaat in feite uit drie afzonderlijke conflicten die tegelijkertijd speelden - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/#comment-57782/
 :ref2: https://www.thejakartapost.com/news/2013/11/12/the-untold-story-surabaya-battle-1945.html
 :ref3: Opmerkelijke feiten en zaken aangaande Nederlands Indië/Indonesië - https://indisch4ever.nu/2011/12/27/opmerkelijke-feiten-en-zaken-aangaande-nederlands-indieindonesie/
 :ref4: https://indisch4ever.nu/2013/11/21/the-bersiapdiscussion-as-revived-by-w-frederick/
@@ -36,6 +36,12 @@
 :bersiapincijfers: Bersiap in cijfers - https://javapost.nl/2012/09/03/bersiap-in-cijfers/
 :nidobersiap: http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html
 :vj: Victory over Japan Day - https://en.wikipedia.org/wiki/Victory_over_Japan_Day
+//
+:trouw: De Bersiap: een vergeten golf van etnisch geweld - https://www.trouw.nl/nieuws/de-bersiap-een-vergeten-golf-van-etnisch-geweld~b015a95c/
+:javapost: Het vuur van de bersiap - https://javapost.nl/2019/01/24/het-vuur-van-de-bersiap/
+:openr: Indo (Eurasian) Communities in Postcolonial Indonesia - https://openresearch-repository.anu.edu.au/handle/1885/116879
+
+// https://www.nederlandsekrijgsmacht.nl/index.php/kl/315-overdragen/bersiap/1149-periode-van-de-bersiap
 
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
@@ -44,6 +50,31 @@ _^Version^ ^date:^ ^{jbake-revdate}^_ +
 #woii #herdenken #nadenken #slachtoffers #burgers #comfortwomen
 
 => deel 5
+
+"Geen ander land heeft de moord op zoveel medeburgers zo gelaten geaccepteerd als Nederland in de Bersiapperiode" footnote:[https://www.paulabrunsveldvanhulten.nl/feiten-en-cijfers].
+
+== Indonesiërs
+
+In Indonesië zijn tijdens WOII 4.000.000 burger slachtoffers gevallen tijdens de Japanse bezetting.
+
+Cijfers van het aantal slachtoffers in de periode augustus 1945 - 1950 zijn onderwerp van debat. Door een gebrek aan onderbouwing i.c. het ontbreken van statistieken hebben de cijfers het karakter van schattingen door extrapolatie die variëren tussen 150.000 en 300.000. footnote:[Bersiap Deel II door: Herman Bussemaker - http://icmonline.ning.com/profiles/blogs/aankondiging-artikel-over-bersiap]
+
+Aangezien op 17 augustus 1945 de Indonesische staat wordt opgericht, wat door de staat der nederlanden met hand en tand is bevochten, staat voornoemd 'debat' in het teken van de schuldvraag footnote:[https://javapost.nl/2014/02/07/bersiap-de-werkelijke-cijfers/] footnote:[De term Politionele Acties was een sterk staaltje van politieke framing  - https://hoeiboei.blogspot.com/2012/07/de-term-politionele-acties-was-een.html]. 
+
+De Indonesische vrijheidsstrijd bestaat in feite uit drie afzonderlijke conflicten die tegelijkertijd speelden footnote:[{ref1}].
+
+. De interstatelijke oorlog tussen Nederland en Indonesië. Slachtoffers zijn zowel militairen als burgers. +
+Burgeroorlog van Indonesiërs onderling. 
+
+. De meeste doden vielen daarbij in de strijd tussen de centrale regering van Soekarno/Hatta en separatistische Indonesische organisaties als de PKI (communisten).
+.  Groepen Indonesiërs die verdacht werden van Nederlandse sympathieën.  +
+.. Het bekendst zijn de Zuid-Molukkers. Maar ook andere Indonesiërs werden met hele families tegelijk van kant gemaakt. 
+.. De Indo-Chinese gemeenschap betaalde eveneens een zware tol vanwege hun welvaart en vermeende Nederlandse affiniteit.
+.. Hoewel geen Indonesiërs: Indische Nederlanders vanwege hun loyaliteit aan het Nederlandse bestuur.
+
+Deze drie gelijktijdige oorlogen tijdens de Indonesische vrijheidsstrijd maken een historisch verantwoorde geschiedschrijving van de Indonesische revolutie uitermate complex.
+
+include::includes/victims_nei_45_63.adoc[tag=indonburger]
 
 
 == Bersiap
@@ -59,4 +90,33 @@ Het afgelopen decennium werd dit aantal zonder gedegen bronnenonderzoek opgehoog
 
 Het voorgaande overziend lijkt mij een Nederlands slachtofferaantal van circa 5.500 het meest reëel, namelijk de 3.500 “gedocumenteerde doden” plus omstreeks 2.000 vermistenfootnote:[Jeroen Kemperman - {ref6}]. 
 
+
+
 include::includes/victims_nei_45_63.adoc[tag=eur4546]
+
+== Quotes
+
+. "_Herman Bussemaker : +
+“De Indonesische vrijheidsstrijd bestaat in feite uit drie afzonderlijke conflicten die tegelijkertijd speelden. In de eerste plaats was er natuurlijk de interstatelijke oorlog tussen Nederland en Indonesië, ruwweg van 1947 tot en met 1949. Tegenover de 6.000 omgekomen Nederlandse militairen en circa 10.000 omgekomen Nederlandse burgers staan, zo schat ik, circa 30.000 omgekomen Indonesiërs. Het gaat zowel om militairen als burgers._ +
+_De meeste doden vielen daarbij in de strijd tussen de centrale regering van Soekarno/Hatta en separatistische Indonesische organisaties als de PKI (communisten)._
+_Naast deze burgeroorlog tussen Indonesiërs onderling +was er sprake van een tweede conflict tussen Indonesiërs en groepen Indonesiërs die verdacht werden van Nederlandse sympathieën. Het bekendst zijn de Zuid-Molukkers. Maar ook andere Indonesiërs werden met hele families tegelijk van kant gemaakt. Ook de Indo-Chinese gemeenschap betaalde een zware tol vanwege hun welvaart en vermeende Nederlandse affiniteit._ +
+_Hoewel geen Indonesiërs, waren ook de Indische Nederlanders het kind van de rekening tijdens de bersiap-periode vanwege hun loyaliteit aan het Nederlandse bestuur. Tussen oktober 1945 en begin 1946 zijn zeker 3.500 Indische Nederlanders, meest vrouwen en kinderen, vermoord. Door ondervoeding stierven nog duizenden kinderen en ouderen in de bersiap-kampen._ +
+_Deze drie gelijktijdige oorlogen tijdens de Indonesische vrijheidsstrijd maken een historisch verantwoorde geschiedschrijving van de Indonesische revolutie uitermate complex."_ +
+P.Lemon op indisch4ever.nu - 2013_footnote:[{ref1}]
+
+:j46404: https://javapost.nl/2019/01/24/het-vuur-van-de-bersiap/#comment-46404
+
+. Maar er is in die tijd meer aan de hand met die Republikeinse of Bersiapkampen footnote:[{j46404}]. +
+Op http://www.bersiapkampen.nl staat namelijk met aantallen aangegeven uit welke plaatsen de mensen kwamen en naar welk republikeins kamp ze gingen. +
+Om een indruk te krijgen van de verhoudingen: er kwamen iets van 50.000 Nederlanders of te wel iets minder dan 20% van de Nederlandse populatie in de Republikeinse kampen, er moest blijkbaar veel beschermd worden. Trek ik de Nederlandse RAPWI ervan af, die waren eigenlijk al beschermd, dan kan het percentage wel tot over de 25% stijgen, dus 1 op de 4 onbeschermde Nederlander zat in het kamp!
+
+:j46521: https://javapost.nl/2019/01/24/het-vuur-van-de-bersiap/#comment-46521
+. Staatkundige eigenschappen in het volkenrecht footnote:[{j46521}]. Op een rijtje:
+
+* Indonesisch perspectief: Indonesië was vanaf 17 augustus 1945 een staat. Van belang is dan het derde criterium van het staatzijn. 1. Er is sprake van een territoir, OK. 2. Er is sprake van een op dat territoir levende bevolking. OK. 3. Er is effectief en daadwerkelijk gezag over die bevolking? Oei! Wat deed dat gezag tegen die moordpartijen? Wat deed het gezagsorgaan, de politie, tegen die moordpartijen? Als verantwoordelijk gezag niets doet tegen een misdrijf is dat op zichzelf ook een misdrijf.
+* Volkenrechtelijk perspectief: Krachtens de Japanse capitulatie was het een gebiedsdeel van het Koninkrijk. Waar de zelfverklaarde Republiek Indonesië als National Liberation Movement effective control uitoefende. Volgens Shaw in het hoofdstuk The subjects of international law: International law has recognised that such entities may in certain circumstances, primarily dependent upon de facto administration of specific territory, enter into valid arrangements. In addition they will be bound by the rules of international law with respect to the conduct of hostilities and may in due course be recognised as governements. Dus: verantwoordelijk voor het gezag in de gebieden under effective control.
+
+Zaakwaarneming heb ik hier eerder geleend uit het zakelijk recht, daar is niets op tegen. Het tekent begrijpelijk de bestaande situatie van een vreemde overheerser. +
+“Dan was Groot-Brittanie als “zaakwaarnemer” ” Eerst dus Japan krachtens de capitulatievoorwaarden. Ik kan alleen over Soerabaja oordelen, en de Kenpeitai heeft dat gezag redelijk goed gedaan, totdat ze naar huis mochten van een hoge Nederlandse marineofficier. Toen begon de bersiap. SEAC (het daaropvolgende verantwoordelijk gezag) stuurde de 49th Indian Infantery Brigade Group: (2.(a) the establishment of law and order, 2(b) the protection, and where appropiate, the evacuation (…)). +
+De situatie groeide echter boven hun mogelijkheden uit waarop de 5th Indian Division een eind maakte aan de bersiap. +
+In februari/maart 1946 is dat gezag van SEAC overgedragen aan Nederland. De stad kwam weer overeind, rustig en ordelijk, en bleef dat tot de overdracht aan de RIS op 27 december 1949.
