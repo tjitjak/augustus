@@ -1,0 +1,71 @@
+= Project Augustus - Herdenking Nederlands-Indië 1945 - Slachtoffers tussen 1942 en 1963 - 5% wordt vergeten
+.
+2019-08-24
+:author: Roel Bazuin
+// custom meta
+// Opmaak
+:source-highlighter: rouge
+:icons: font
+// turn section titles into . links
+:sectlinks:
+//:sectnums:
+//:leveloffset:
+:allow-uri-read:
+:description:  augustus herdenkingen
+:jbake-tags: blog,augustus
+// Type 
+:jbake-type: post
+//:jbake-type: page
+// Status
+:jbake-status: published
+// :jbake-status: draft
+// - providing content date is equal to or past current date content will be considered published and included in the published collections
+:publish_date: 2019-08-24
+:jbake-revdate: 2019-08-24
+//
+//_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
+//Artikelen over '{author_name}' door {author} +
+//Version date: {revdate} +
+
+#gedenken #nadenken #schaamteloos & #tragisch
+
+=> deel 6
+
+[big]#"Begrip van de geschiedenis bereik je alleen door oog in oog te staan met statistiek over vroeger"#
+
+_De 'Nationale Herdenking' gedenkt [underline]#'álle slachtoffers# footnote:slachtoffer[https://nl.wikipedia.org/wiki/Slachtoffer] van de Japanse bezetting van Nederlands-Indië volgens haar websitefootnote:[https://15augustus1945.nl/].
+'Formeel eindigde de Tweede Wereldoorlog voor Nederland pas op 15 augustus 1945 en niet op 5 mei 1945.' 
+En o ja ..'Als gevolg van de oorlog wonen er in Nederland inmiddels ruim 2 miljoen mensen met wortels in voormalig Nederlands-Indië.'_
+
+Je moet maar durven.
+
+== Zwart gat na augustus 1945
+
+Er wordt niet over niet over Indonesië gepraat sinds 1945 tot, uhmm, nu. Behalve dan met toegeknepen billen - maar toch een streep in de broek - en hoog oplopende emoties. Respectievelijk de Hollanders en de Indische / Indo-Europese gemeenschap. Dat zijn er meer dan die 2 miljoen. Je weet wel: elders in de wereld.
+
+Alles na augustus 1945 is op dit moment een no-go area. Want: onafhankelijkheidsstrijd van Indonesië'. En Hollandse https://www.roelbazuin.nl/project/augustus/augustus_1945_1963_army_victims.html['politionele acties'].  
+Want ja. Je hebt daders en slachtoffers. En dus schuldigen. Volgens de heersende 'Joods-Christelijke' cultuur. Zwarte Pieten met Hollanders, dat gaat natuurlijk niet footnote:[pun intended :-)]. 
+
+== Slachtoffers
+
+[quote]
+_"Een slachtoffer is een persoon die een schokkende gebeurtenis (buiten de gebruikelijke menselijke ervaring) heeft meegemaakt, daarvan getuige is geweest of erover gehoord heeft en daarbij is gedood of gewond en/of benadeeld, en/of daarop met een intens gevoel van machteloosheid en intense angst heeft gereageerd"._
+
+De 4.000.000 Indonesische burgers vallen toch duidelijk binnen de definitie van [underline]#'álle slachtoffers#. Gek genoeg worden Romusha's wel vermeld footnote:[en de zwaarst getroffen Indonesische groep dwangarbeiders, de romusha’s -  https://15augustus1945.nl/indisch-monument/]. Heiho's niet. Over dwangprostituees horen we ook niks. Molukkers wel (sinds 2008).
+
+Geen woord over de 300.000 slachtoffers onder Indonesische burgers.
+Praten over ~ 7.500 Bersiap slachoffers is in dit verband eveneens bijzonder lastig.
+
+En wie wist dat er 176 militairen gedood werden tijdens de 'acties' rond Nieuw-Guinea waar 30.000 militairen en zelfs een vliegdekschip op af werden gestuurd. Maar ja. Goud. Heel veel goud. 
+
+== Alle statistiek bij elkaar
+
+Ik heb alle cijfers uit voorgaande hoofdstukken bij elkaar gezet in onderstaande tabel footnote:[nog zonder slachtoffers onder geallieerden]. Vetgedrukte aantallen slachtoffers worden niet meegenomen in de herdenking.
+
+Bij de - in 1970 gestartte - 'Nationale herdenking' worden op zijn minst 4.380.000 slachtoffers vergeten. Minstens 240.000 slachtoffers staan wel op de lijst. Dat is 5% van het totaal..
+
+[big]*_Wie durft nog te zeggen dat [underline]#'álle slachtoffers# worden herdacht?_*
+
+#schaamteloos & #tragisch
+
+include::includes/victims_nei_45_63.adoc[tag=totaal]
