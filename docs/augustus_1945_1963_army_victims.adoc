@@ -46,12 +46,13 @@
 #woii #herdenken #gedenken #nadenken #slachtoffers #victims #militairen
 
 => Deel 4
-//// ////
-[big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
 
 .Mustang P-51D op Medan (opa rechts onder)
 [link=https://www.roelbazuin.nl/stamboom/fotos_122sqn.html]
 image::https://roelbazuin.nl/assets/P51/medan/t/P51_bastiaans2_t.jpg[,500,float=right]
+
+[big]#_"Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"_#
+
 
 // tag::deel4[]
 
@@ -65,10 +66,6 @@ image::https://roelbazuin.nl/assets/P51/medan/t/P51_bastiaans2_t.jpg[,500,float=
 
 De Staat der Nederlanden voerde tussen 1945 en 1950 haar laatste geweldadige oorlog in Indonesië footnote:[{polac}] tegen de mensen die hun land na 350 jaar terug wilden footnote:[{lara}]
 
-.Brencarriers Andjing Nica
-[link=https://www.nederlandsekrijgsmacht.nl/index.php/kl/330-eenheden-nederlandse-leger/eenheden-knil/diverse-eenheden/1201-andjing-nica-bataljon]
-image::https://www.nederlandsekrijgsmacht.nl/images/brencarriers_in_actie.jpg[,500,float=right]
-
 Op 17 augustus 1945 werd de Republiek Indonesië uitgeroepen die niet door Nederland werd erkend. Er ontstaat een bloederige strijd, de ‘Bersiap periode’, die duurt tot het voorjaar van 1946, gevolgd door 2 ‘politionele acties’ en andere militaire confrontaties tot begin 1950.
 
 De eerste politionele actie footnote:[{eerste}] begon op 21 juli 1947 en duurde tot 5 augustus 1947. Onder de codenaam "operatie Product" was het de bedoeling om cultuurgebieden, rubber, tabak, suiker, thee, etc. in handen te krijgen om daarmee de kosten van de oorlog (3 miljoen gulden per dag) te helpen betalen.
@@ -76,6 +73,11 @@ De eerste politionele actie footnote:[{eerste}] begon op 21 juli 1947 en duurde 
 De tweede politionele actie begon op 19 december 1948 onder de codenaam Kraai footnote:[{tweede}]. In een bliksemaanval met luchtlandingstroepen werden Soekarno en andere republikeinse regeringsleiders gevangen genomen. 
 
 De militairen van het koloniale leger, het KNILfootnote:[{knil}], werden direct uit Japanse krijgsgevangenschap https://www.roelbazuin.nl/blog/in_een_b25_naar_australie.html[(RAPWI)]footnote:[{rapwi}] weer ingezet. Grootscheepse troepenzendingen uit Nederland waren echter nodig. Vond men.
+
+
+.Brencarriers Andjing Nica
+[link=https://www.nederlandsekrijgsmacht.nl/index.php/kl/330-eenheden-nederlandse-leger/eenheden-knil/diverse-eenheden/1201-andjing-nica-bataljon]
+image::https://www.nederlandsekrijgsmacht.nl/images/brencarriers_in_actie.jpg[,500,float=right]
 
 include::includes/victims_nei_45_63.adoc[tag=polactie]
 
