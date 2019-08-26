@@ -36,7 +36,7 @@
 :bersiapincijfers: Bersiap in cijfers - https://javapost.nl/2012/09/03/bersiap-in-cijfers/
 :nidobersiap: http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html
 :vj: Victory over Japan Day - https://en.wikipedia.org/wiki/Victory_over_Japan_Day
-
+:eindspel: Eindspel Indische kwestie - https://indisch4ever.nu/2015/11/20/eindspel-indische-kwestie
 
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
@@ -98,7 +98,8 @@ Aanwijzingen dat de staat der nederlanden al geruime tijd bezig was met voorbere
 
 Als Indische-Nederlander heb je grote pech wanneer je als Indo KNIL soldaat, net bevrijd uit een Jappenkamp, in naam van koningin en vaderland moet meehelpen je voormalige buren, collega's en vrienden om zeep te helpen.
 
-Voldoende grond voor een breed scala aan sentimenten.
+Voldoende grond voor een breed scala aan sentimenten. Nog los van niet uitbetaalde salarissen en vergoedingen oorlogsschade, ook wel 'de Indische Kwestie'footnote:[{eindspel}].
+
 // end::deel1[]
 
 .Updates
