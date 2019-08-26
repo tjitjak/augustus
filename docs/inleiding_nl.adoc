@@ -3,8 +3,10 @@
 === Project Augustus
 
 //A public experiment on Github when writing articles with lots of data, references and tables. 
-Project Augustus is een publiek experiment op Github bij het schrijven van artikelen (in Asciidoc) met veel achterliggende data en referenties. 
-De eerste 'commit' was op 18 augustus 2019.
+Project Augustus is een publiek 'versioning' experiment op Github.
+
+Git is gebruikt voor 'versioning' bij het in Asciidoc schrijven van de artikelen gebaseerd op veel achterliggende data en referenties. 
+De eerste 'commit' was op 18 augustus 2019. In principe kan eenieder commentaar leveren of data aanvullen.
 
 https://github.com/tjitjak/augustus
 
@@ -23,6 +25,7 @@ https://bitbucket.org/tjitjak/augustus/src/master/
 "Voor de - eerste generatie - Nederlandse Indo-Europeanen, zijn er slachtoffers te gedenken voor en na augustus 1945. Ook diegenen die zijn gevallen tussen augustus 1945 en 1963 dienen niet te worden vergeten"
 
 //_The plan is to make additional documents with the number of victims before and after August 1945._
+In totaal zijn er 6 delen gepubliceerd tussen 18 en 27 augustus 2019. Dit document combineert ze allemaal.
 
 //# Content
 === Inhoud
