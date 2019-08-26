@@ -107,7 +107,7 @@ include::augustus_1942_1963_statistiek_totaal.adoc[tag=deel6]
 //=== Casualties in Asia and the Pacific by nation and type
 //include::includes/casualties_in_asia.adoc[tag=table]
 
-== Quotes
+= Quotes
 Enkele Citaten die letterlijk of impliciet zijn gebruikt.
 
 . "_Herman Bussemaker : +
@@ -131,7 +131,7 @@ And many probably simply wanted to leave the bersiap behind them entirely, and r
 
 . Een beetje indo die de Jappenkampen heeft overleefd weet zijn weg wel te vinden. Zo iemand dopt zijn eigen boontjes. Is blij dat hij nog leeft. En hij haalt zijn neus niet op voor de geur van andijvie (of spruitjes). Zo iemand toch, heeft de lucht van lijken reeds ingeademdfootnote:[Ed Vos - {ref5}].
 
-== Afkortingen
+= Afkortingen
 [glossary]
 
 O.D.O.:: Nederlandse Opsporingsdienst Overledenen (ODO).  +
