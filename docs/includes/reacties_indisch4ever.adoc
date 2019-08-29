@@ -1,0 +1,21 @@
+= reacties
+
+2019-08-28
+Het artikel is onderdeel van een serie van 6, waarin ik op zoek ging naar zoveel mogelijk data. (zie https://www.roelbazuin.nl/project/augustus/). Ik wilde weten wie die 'alle slachtoffers' nu waren die herdacht worden op 15 augustus.
+
+Zoals bekend bestaat het overgrote deel van relevante data uit 'schattingen'. Dat is tragisch en lastig. De 'schattingen' van dhr. Frederick mbt 'de 10%' wordt uitgebreid becritiseerd. Ik heb zijn 'schatting', net als de rest, opgenomen in de tabel. Wellicht komt er op enig moment betere en onderbouwde 'schattingen'.
+
+Het 'aantal vermisten' is gebaseerd op een NIOD artikel: http://niodbibliotheek.blogspot.com/2014/05/de-slachtoffers-van-de-bersiap_16.html waarbij de Jong wordt aangehaald.
+
+In elk geval is me duidelijk geworden dat ~ 95% van de slachtoffers in NEI niet wordt herdacht. Dat is behalve tragisch schaamteloos en eerlijk gezegd verbijsterend.
+
+--
+@Boeroeng
+Ik meen dat het artikel duidelijk is over uitgangspunten en doelstellingen.. Ik ben uitgegaan van https://15augustus1945.nl. De officiele landelijke herdenking.
+
+Je hebt volkomen gelijk: iedereen herdenkt zijn of haar eigen verlies in WOII. Of niet. 
+"Ik gedenk. En herdenk. Net even iets anders." (https://www.roelbazuin.nl/blog/herdenking.html)
+
+Ik vermoed dat ik niet de enige ben die op zoek is naar patronen in gerelateerde dossiers, bv. 'de Indische kwestie', het lopende 'dekolonisatie' onderzoek, etc. Dit onderzoekje was in eerste instantie voor mezelf door het op een rij zetten van relevante data.
+
+Ik heb alle txt deze keer bewust op Github /Bitpucket gezet. Iedereen kan het gebruiken, aanvullen etc. Of niet.
