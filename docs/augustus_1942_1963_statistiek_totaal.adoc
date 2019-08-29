@@ -1,4 +1,4 @@
-= Project Augustus - Herdenking Nederlands-Indië 1945 - Slachtoffers tussen 1942 en 1963 - 95% wordt vergeten
+= Project Augustus - Nationale Herdenking Nederlands-Indië - Slachtoffers tussen 1942 en 1963 - 95% wordt vergeten - 
 .
 2019-08-26
 :author: Roel Bazuin
@@ -21,15 +21,15 @@
 // :jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
 :publish_date: 2019-08-24
-:jbake-revdate: 2019-08-26
+:jbake-revdate: 2019-08-29
 //
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
 //Version date: {revdate} +
 
-#gedenken #nadenken #schaamteloos & #tragisch
+#herdenken #gedenken #nadenken 
 
-=> deel 6
+=> deel 6 - https://www.roelbazuin.nl/project/augustus/#_samenvatting_statistiek[klik hier voor alle delen^]
 
 // tag::deel6[]
 
@@ -43,33 +43,29 @@ Je moet maar durven.
 
 == Zwart gat na augustus 1945
 
-Er wordt niet over niet over Indonesië gepraat sinds 1945 tot, uhmm, nu. Behalve dan met toegeknepen billen - maar toch een streep in de broek - en hoog oplopende emoties. Respectievelijk de Hollanders en de Indische / Indo-Europese gemeenschap.
+Er wordt niet over Indonesië gepraat sinds 1945 tot nu. 
 
-Alles na augustus 1945 is op dit moment een no-go area. Want: onafhankelijkheidsstrijd van Indonesië'. En Hollandse https://www.roelbazuin.nl/project/augustus/augustus_1945_1963_army_victims.html['politionele acties'].  
-Want ja. Je hebt daders en slachtoffers. En dus schuldigen. Volgens de heersende 'Joods-Christelijke' cultuur. Zwarte Pieten met Hollanders, dat gaat natuurlijk niet footnote:[pun intended :-)]. 
+Alles na augustus 1945 is op dit moment een no-go area. Want: onafhankelijkheidsstrijd van Indonesië'. En Hollandse https://www.roelbazuin.nl/project/augustus/augustus_1945_1963_army_victims.html['politionele acties'^].  
+Want ja. Je hebt daders en slachtoffers. En dus schuldigen. Zwarte Pieten met Hollanders, dat gaat natuurlijk niet footnote:[pun intended :-)]. 
 
 == Slachtoffers
 
 [quote]
 _"Een slachtoffer is een persoon die een schokkende gebeurtenis (buiten de gebruikelijke menselijke ervaring) heeft meegemaakt, daarvan getuige is geweest of erover gehoord heeft en daarbij is gedood of gewond en/of benadeeld, en/of daarop met een intens gevoel van machteloosheid en intense angst heeft gereageerd"._
 
-De 4.000.000 Indonesische burgers vallen toch duidelijk binnen de definitie van [underline]#'álle slachtoffers#. Gek genoeg worden Romusha's wel vermeld footnote:[en de zwaarst getroffen Indonesische groep dwangarbeiders, de romusha’s -  https://15augustus1945.nl/indisch-monument/] footnote:[De brutaliteit van de Romusha en personen uit andere gedwongen arbeid systemen was een van de hoofdredenen van het enorme dodenaantal van Indonesische burgers tijdens de Japanse bezetting.]. Heiho's niet. Over dwangprostituees horen we ook niks. Molukkers wel (sinds 2008).
+De 4.000.000 Indonesische burgers vallen duidelijk binnen de definitie van [underline]#'álle slachtoffers#. Gek genoeg worden Romusha's wel vermeld footnote:[en de zwaarst getroffen Indonesische groep dwangarbeiders, de romusha’s -  https://15augustus1945.nl/indisch-monument/] footnote:[De brutaliteit van de Romusha en personen uit andere gedwongen arbeid systemen was een van de hoofdredenen van het enorme dodenaantal van Indonesische burgers tijdens de Japanse bezetting.]. Heiho's niet. Over dwangprostituees horen we ook niks. Molukkers wel (sinds 2008).
 
 Geen woord over de 300.000 slachtoffers onder Indonesische burgers.
-Praten over ~ 7.500 Bersiap slachoffers is in dit verband eveneens bijzonder lastig.
+Praten over ~ 7.500 Bersiap slachoffers is in dit verband - nog steeds - bijzonder lastig.
 
-En wie wist dat er 176 militairen gedood werden tijdens de 'acties' rond Nieuw-Guinea waar 30.000 militairen en zelfs een vliegdekschip op af werden gestuurd. Maar ja. Goud. Heel veel goud. 
+En wie weet nog dat er 176 militairen gedood werden tijdens de 'acties' rond Nieuw-Guinea waar 30.000 militairen en zelfs een vliegdekschip op af werden gestuurd. Maar ja. Goud. Heel veel goud. 
 
 == Alle statistiek bij elkaar
 
-Ik heb alle cijfers uit voorgaande hoofdstukken bij elkaar gezet in onderstaande tabel footnote:[nog zonder slachtoffers onder geallieerden]. Vetgedrukte aantallen slachtoffers worden niet meegenomen in de herdenking.
+Ik heb alle cijfers uit voorgaande hoofdstukken bij elkaar gezet in onderstaande tabel footnote:[nog zonder slachtoffers onder geallieerden^]. Vetgedrukte aantallen slachtoffers worden niet meegenomen in de herdenking.
 
 Bij de - in 1970 gestartte - 'Nationale herdenking' worden op zijn minst 4.380.000 slachtoffers vergeten. Minstens 240.000 slachtoffers staan wel op de lijst. Dat is 5% van het totaal.. +
-_Dat betekent dat 95% wordt 'vergeten'. Ontkend. Niet meegenomen. Bestonden niet._
-
-[big]*_Wie durft nog te zeggen dat [underline]#'álle slachtoffers# worden herdacht?_*
-
-#schaamteloos & #tragisch
+_Dat betekent dat 95% wordt 'vergeten'. Ontkend. Niet meegenomen. Bestaan niet._ Natuurlijk bestaan ze wel in de herinnering van nabestaanden. Gelukkig maar.
 
 include::includes/victims_nei_45_63.adoc[tag=totaal]
 // end::deel6[]
