@@ -1,5 +1,6 @@
 == Inleiding
 
+
 === Project Augustus
 
 //A public experiment on Github when writing articles with lots of data, references and tables. 
@@ -26,6 +27,8 @@ https://bitbucket.org/tjitjak/augustus/src/master/
 
 //_The plan is to make additional documents with the number of victims before and after August 1945._
 In totaal zijn er 6 delen gepubliceerd tussen 18 en 27 augustus 2019. Dit document combineert ze allemaal.
+
+https://www.roelbazuin.nl/project/augustus
 
 //# Content
 === Inhoud
