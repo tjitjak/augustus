@@ -4,9 +4,9 @@
 === Project Augustus
 
 //A public experiment on Github when writing articles with lots of data, references and tables. 
-Project Augustus is een publiek 'versioning' experiment op Github.
+Project Augustus is een publiek 'versioning' experiment met GIT.
 
-Git is gebruikt voor 'versioning' bij het in Asciidoc schrijven van de artikelen gebaseerd op veel achterliggende data en referenties. 
+Git is gebruikt voor 'versioning' bij het in Asciidoc schrijven van artikelen gebaseerd op veel achterliggende data en referenties. 
 De eerste 'commit' was op 18 augustus 2019. In principe kan eenieder commentaar leveren of data aanvullen.
 
 https://github.com/tjitjak/augustus
