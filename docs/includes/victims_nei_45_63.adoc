@@ -98,6 +98,7 @@
 :slmol: Molukse slachtoffers Tweede Wereldoorlog - https://javapost.nl/2015/08/28/molukse-slachtoffers-tweede-wereldoorlog/
 :javapost2017: https://javapost.nl/2017/08/12/wie-telt-de-indonesische-doden/
 
+[cols="~,~,~",%autowidth]
 |===
 |Omschrijving|Omgekomen | Opmerking
 
@@ -107,7 +108,7 @@
 |Burgerbevolking op Zuid-Celebes |3256 - 6500 | cijfers van het HKGS - historicus Willem IJzereef footnote:javapost[]  tussen januari 1946 en maart 1947.
 
 |Chinezen | ? |
-|Zuid-Molukkers footnote:[{Faciliteitenwet}] | 490 footnote:[{slmol}] | https://theses.ubn.ru.nl/bitstream/handle/123456789/4552/Hooyman%2c_S_1.pdf?sequence=1[Gekomen om terug tegaan maar gebleven^]
+|Zuid-Molukkers footnote:[{Faciliteitenwet}] | 490 footnote:[{slmol}] | https://theses.ubn.ru.nl/bitstream/handle/123456789/4552/Hooyman%2c_S_1.pdf?sequence=1[Gekomen om terug tegaan maar gebleven^] footnote:[Gekomen om terug tegaan maar gebleven - https://theses.ubn.ru.nl/bitstream/handle/123456789/4552/Hooyman%2c_S_1.pdf?sequence=1]
 
 |Burgerbevolking totaal footnote:[The killing of Dutch and Eurasians in Indonesia's national revolution (1945–49): a ‘brief genocide’ reconsidered - https://www.tandfonline.com/doi/abs/10.1080/14623528.2012.719370?journalCode=cjgr20#.UoojW-K42et]|250.000 - 300.000 | 
 Frederick footnote:[https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/#comment-57778]
@@ -116,11 +117,9 @@ Frederick footnote:[https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indisc
 
 |Burgerbevolking totaal | 2.4 milj. | Pierre van der Eng  footnote:[berekende  het demografische gat- het verschil tussen de normaliter te verwachten en de daadwerkelijke bevolkingsgroei – voor de hele jaren veertig in Indonesië liefst 2,4 miljoen bedroeg: een teken dat niet alleen oorlogsgeweld maar ook hongersnood en andere ontberingen grootschalige gevolgen hadden in deze periode.  - https://javapost.nl/2017/08/12/]
 
-|Burgerbevolking totaal | 25.000 - 100.000 | Australische historicus Adrian Vickers footnote:javapost2017[] op basis van een overzicht van vooral Indonesische geschiedschrijving.
+|Burgerbevolking totaal | 25.000 - 100.000 | Australische historicus Adrian Vickers footnote:javapost[] op basis van een overzicht van vooral Indonesische geschiedschrijving.
 
-|Burgerbevolking totaal | 97.421.  | Christiaan Harinck, Nico van Horn en Bart Luttikhuis footnote:javapost2017[]. totaal aantal gesneuvelde Indonesiërs, onduidelijk hoeveel daarvan strijders en hoeveel burgers. In de militaire rapportage worden alle doden opgevoerd als ‘vijandelijke verliezen’.
-
-
+|Burgerbevolking totaal | 97.421.  | Christiaan Harinck, Nico van Horn en Bart Luttikhuis footnote:javapost[]. totaal aantal gesneuvelde Indonesiërs, onduidelijk hoeveel daarvan strijders en hoeveel burgers. In de militaire rapportage worden alle doden opgevoerd als ‘vijandelijke verliezen’.
 
 |===
 // end::indonburger[]

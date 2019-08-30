@@ -21,7 +21,7 @@
 // :jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
 :publish_date: 2019-08-23
-:jbake-revdate: 2019-08-23
+:jbake-revdate: 2019-08-30
 //:imagesdir: 
 // referenties
 :ref1: De Indonesische vrijheidsstrijd bestaat in feite uit drie afzonderlijke conflicten die tegelijkertijd speelden - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/#comment-57782/
@@ -40,7 +40,7 @@
 :trouw: De Bersiap: een vergeten golf van etnisch geweld - https://www.trouw.nl/nieuws/de-bersiap-een-vergeten-golf-van-etnisch-geweld~b015a95c/
 :javapost: Het vuur van de bersiap - https://javapost.nl/2019/01/24/het-vuur-van-de-bersiap/
 :openr: Indo (Eurasian) Communities in Postcolonial Indonesia - https://openresearch-repository.anu.edu.au/handle/1885/116879
-
+ 
 // https://www.nederlandsekrijgsmacht.nl/index.php/kl/315-overdragen/bersiap/1149-periode-van-de-bersiap
 
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
@@ -49,7 +49,7 @@ _^Version^ ^date:^ ^{jbake-revdate}^_ +
 
 #woii #herdenken #nadenken #slachtoffers #burgers #comfortwomen
 
-=> deel 5
+=> deel 5 - https://www.roelbazuin.nl/project/augustus/#_samenvatting_statistiek[klik hier voor alle delen^]
 
 // tag::deel5[]
 
