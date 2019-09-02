@@ -1,6 +1,6 @@
 # Project Augustus
 
-A public experiment on Github when writing articles with lots of data, references and tables. 
+A public experiment with Git when writing articles combining data, references and tables.
 
 # About
 
@@ -11,13 +11,17 @@ A public experiment on Github when writing articles with lots of data, reference
 _The plan is to make additional documents with the number of victims before and after August 1945._
 
 # Content
-- https://github.com/tjitjak/augustus/tree/master/docs[[Docs] +
-This directory holds all documents. All written in asciidoc. They will be pushed to Jbake for publishing on my website.
+- Database +
+Made an Openoffice spreadsheet containing reference data to be used in tables.
 
-** https://github.com/tjitjak/augustus/tree/master/includes[Includes] +
-Holds documents and files to be used in a main doc as an 'include'.
+- Docs +
+This directory holds all documents, written in asciidoc. They will be pushed to Jbake for publishing on my website.
 
-- https://github.com/tjitjak/augustus/tree/master/output[Output] +
+** Includes +
+Holds documents, mainly tables, to be used in a main doc as an 'include'. 
+
+
+- Output  +
 Holds pdf and HTML documents
 
 
