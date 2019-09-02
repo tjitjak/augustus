@@ -27,5 +27,6 @@ Holds pdf and HTML documents
 
 # Copyright and License
 
-Copyright 2019 Roel Bazuin. Documents released under the MIT license.
+Copyright 2019 Roel Bazuin. Documents released under the CC BY-NC 4.0 license - NonCommercial 4.0 International +
+https://creativecommons.org/licenses/by-nc/4.0/
 
