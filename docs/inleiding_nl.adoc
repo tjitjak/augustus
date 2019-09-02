@@ -4,58 +4,62 @@
 === Project Augustus
 
 //A public experiment on Github when writing articles with lots of data, references and tables. 
-Project Augustus is een publiek 'versioning' experiment met GIT.
+Project Augustus is een publiek toegankelijk experiment met GITfootnote:[Git is a free and open source distributed version control system  - https://git-scm.com/].
 
-Git is gebruikt voor 'versioning' bij het in Asciidoc schrijven van artikelen gebaseerd op veel achterliggende data en referenties. 
-De eerste 'commit' was op 18 augustus 2019. In principe kan eenieder commentaar leveren of data aanvullen.
-
-De online opslagplaatsen:
-
-Gitlab: +
+Git is gebruikt voor 'versioning' bij het in Asciidocfootnote:[AsciiDoc is a text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages and blogs.  - http://asciidoc.org/] schrijven van artikelen gebaseerd op veel achterliggende data en referenties. 
+De eerste 'commit' was op 17 augustus 2019. In principe kan iedereen commentaar leveren of data aanvullen op de repository op Gitlab: 
 https://gitlab.com/tjitjak/augustus
-
-Github: +
-https://github.com/tjitjak/augustus
-
-Bitbucket: +
-https://bitbucket.org/tjitjak/augustus/src/master/
 
 
 //# About
-=== Over
+=== Onderwerp
 
 //"_Commemoration of victims after August 1945_"
-"Herdenking van [underline]*alle slachtoffers* in voormalig Nederlands-Indië"
+_"Nationale Herdenking van [underline]*alle slachtoffers* in voormalig Nederlands-Indië"_
 
 //"For the - first generation - Dutch Indo-Europeans, in addition to the Japanese occupation, the period August 1945 - 1950 is a timeframe in which once again victims fell who should not be forgotten."
 "Voor de - eerste generatie - Nederlandse Indo-Europeanen, zijn er slachtoffers te gedenken voor en na augustus 1945. Ook diegenen die zijn gevallen tussen augustus 1945 en 1963 dienen niet te worden vergeten"
 
-//_The plan is to make additional documents with the number of victims before and after August 1945._
-In totaal zijn er 6 delen gepubliceerd tussen 18 en 27 augustus 2019. Dit document combineert ze allemaal.
-
-https://www.roelbazuin.nl/project/augustus
+[underline]#Propositie#:  _niet ALLE slachtoffers worden -officieel- herdacht op de Nationale Herdenking._
 
 [quote, Voorwoord Regina Grüter,tweede druk 'De doden tellen' van Nationaal Comité 4 en 5 mei]
 ‘Al zijn de exacte aantallen niet altijd bekend, en al weten we vaak niet hoe de slachtoffers aan hun einde zijn gekomen, het streven om zo adequaat mogelijke gegevens te achterhalen is van belang voor hen die hen willen herdenken, maar ook voor een dieper inzicht in onze geschiedenis.’ Volgens ons geldt dit echter niet alleen voor Nederlandse slachtoffers.
 
+//_The plan is to make additional documents with the number of victims before and after August 1945._
+Project Augustus heeft als doel om alle beschikbare aantallen van slachtoffers in 1 document bij elkaar te zetten.
+
+Tot nu toe zijn er 6 delen gepubliceerd. Dit document combineert ze allemaal.
+
+=> https://www.roelbazuin.nl/project/augustus <=
+
 //# Content
 === Inhoud
 
-- https://github.com/tjitjak/augustus/tree/master/docs[Docs] +
+- \Database +
+De data met referenties is opgeslagen in een Open Office spreadsheet. Deze wordt gebruikt als bron voor de tabellen. 
+
+- \Docs +
 //This directory holds all documents. All written in asciidoc. They will be pushed to Jbake for publishing on my website.
-In deze directory staan alle asciidoc documenten. Zij worden met Jbake op mijn website - http://roelbazuin.nl -  gepubliceerd.
+In deze directory staan alle asciidoc documenten. 
 
-** https://github.com/tjitjak/augustus/tree/master/includes[Includes] +
+** \Includes +
 //Holds documents and files to be used in a main doc as an 'include'.
-Documenten met data. Zij worden middels een 'include' gebruikt in een hooddocument.
+Documenten met data, grotendeels tabellen. Zij worden middels een 'include' opgenomen in een document.
 
-- https://github.com/tjitjak/augustus/tree/master/output[Output] +
+- \Output +
+Rapportage +
 //Holds pdf and HTML documents
-Directory met pdf en html bestanden. Output van /docs. 
+* Directory met pdf en html bestanden. Output van \Docs. 
 
+[source]
+asciidoctor augustus_1945_main.adoc -o index.html -D  <output>
+asciidoctor-pdf -a allow-uri-read augustus_1945_main.adoc -D <output>
+
+Alle asciidoc bestanden uit \Docs worden eveneens met Jbakefootnote:[JBake is a Java based, open source, static site/blog generator for developers & designers - https://jbake.org/] op mijn website gepubliceerd (http://roelbazuin.nl[roelbazuin.nl^]). 
 
 === Copyright and License
 
-Copyright 2019 Roel Bazuin. Documents released under the MIT license.
+Copyright 2019 Roel Bazuin +
+Documents released under the CC BY-NC 4.0 license - NonCommercial 4.0 International - https://creativecommons.org/licenses/by-nc/4.0/
 
 ---

@@ -21,7 +21,7 @@
 :jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
 :publish_date: 2019-08-17
-:revdate: 2019-08-26
+:revdate: 2019-09-02
 //
 :doctype: book
 :toc: left
@@ -47,7 +47,7 @@ toc::[]
 //
 :eindspel: Eindspel Indische kwestie - https://indisch4ever.nu/2015/11/20/eindspel-indische-kwestie
 
-//_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
+_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
 //Version date: {revdate} +
 
@@ -132,6 +132,7 @@ And many probably simply wanted to leave the bersiap behind them entirely, and r
 . Een beetje indo die de Jappenkampen heeft overleefd weet zijn weg wel te vinden. Zo iemand dopt zijn eigen boontjes. Is blij dat hij nog leeft. En hij haalt zijn neus niet op voor de geur van andijvie (of spruitjes). Zo iemand toch, heeft de lucht van lijken reeds ingeademdfootnote:[Ed Vos - {ref5}].
 
 = Afkortingen
+
 [glossary]
 
 O.D.O.:: Nederlandse Opsporingsdienst Overledenen (ODO).  +
