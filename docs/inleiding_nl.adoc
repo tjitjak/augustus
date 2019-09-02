@@ -9,10 +9,15 @@ Project Augustus is een publiek 'versioning' experiment met GIT.
 Git is gebruikt voor 'versioning' bij het in Asciidoc schrijven van artikelen gebaseerd op veel achterliggende data en referenties. 
 De eerste 'commit' was op 18 augustus 2019. In principe kan eenieder commentaar leveren of data aanvullen.
 
+De online opslagplaatsen:
+
+Gitlab: +
+https://gitlab.com/tjitjak/augustus
+
+Github: +
 https://github.com/tjitjak/augustus
 
-Ook op Bitbucket:
-
+Bitbucket: +
 https://bitbucket.org/tjitjak/augustus/src/master/
 
 
