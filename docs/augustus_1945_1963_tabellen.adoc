@@ -1,6 +1,6 @@
-= Project Augustus - Statistiek
+= Project Augustus - Slachtoffers voor en na augustus 1945 in Nederlands-Indië - Statistiek - alle tabellen bij elkaar
 .
-2019-08-17
+2019-09-04
 :author: Roel Bazuin
 // custom meta
 // Opmaak
@@ -15,13 +15,13 @@
 :jbake-tags: blog,augustus
 // Type 
 // :jbake-type: post
-//:jbake-type: page
+:jbake-type: page
 // Status
-// :jbake-status: published
+:jbake-status: published
 // :jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
-:publish_date: 2019-08-17
-:revdate: 2019-08-21
+:publish_date: 2019-09-04
+:revdate: 2019-09-04
 //
 //_^Eerste^ ^versie^ ^geschreven^ ^op^ ^{publish_date}^_ +
 //Artikelen over '{author_name}' door {author} +
@@ -29,7 +29,10 @@
  
 #woii #herdenken #gedenken #nadenken
 
+[quote]
 "Werkelijk begrip van de geschiedenis bereik je alleen door oog in oog te staan met de mensen van vroeger"
+
+Alle tabellen uit https://www.roelbazuin.nl/project/augustus/[Project Augustus] bij elkaar. Voor de liefhebbers.
 
 include::includes/victims_nei_45_63.adoc[tag=totaal]
 
