@@ -21,7 +21,7 @@
 //:jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
 :publish_date: 2019-08-18
-:jbake-revdate: 2019-08-22
+:jbake-revdate: 2019-09-07
 //:imagesdir:  
 // referenties
 :ref1: ‘Moord op duizenden (Indische) Nederlanders was genocide’ - https://indisch4ever.nu/2013/11/21/moord-op-duizenden-indische-nederlanders-was-genocide/
@@ -74,14 +74,22 @@ Het steekt, zwak gezegd, dat de periode augustus 1945 - 1950 niet meetelt bij de
 
 Het is een tijdvak die niet wordt 'meegenomen' in de Nationale herdenking op 15 augustus. Waarom is onduidelijk.
 
+Bij de - in 1970 gestarttefootnote:[Aanvankelijk zou dit een eenmalige gelegenheid zijn. Pas in 1988 werd, na een intensieve lobby, besloten dat 15 augustus een officiële, jaarlijks terugkerende herdenkingsdag zou worden. https://www.lc.nl/friesland/Vier-vragen-over-Indi%C3%AB-herdenking-wat-herdenken-we-eigenlijk-op-15-augustus-24735943.html?harvest_referrer=https%3A%2F%2Fduckduckgo.com%2F] - 'Nationale herdenking' worden op zijn minst 4.380.000 slachtoffers vergetenfootnote:[Bij de Indië-herdenking is het perspectief nog steeds koloniaal, de Indonesische visie wordt genegeerd, betoogt Jeffry Pondaag - https://www.volkskrant.nl/columns-opinie/voor-ons-indonesiers-betekent-15-augustus-niets~b68329aa/].
+
 == De data
+
+.Ondertekening capitulatieverklaring op USS Missouri
+image::https://www.veteraneninstituut.nl/content/uploads/2018/08/Helfrich_NETHERLANDS_1945.jpg[,600,role=right, link=https://www.veteraneninstituut.nl/verhalen-van-veteranen/vijf-dingen-misschien-nog-wist-indie-herdenking/]
+
 Over welke data en periodes hebben we het precies? :
 
 - *Februari 1942*, einde aan de Nederlandse bezetting vanuit Indonesisch perspectief. footnote:pondaag[De Indonesische Grondwet gaat uit van 1945. J. Pondaag - https://www.volkskrant.nl/columns-opinie/voor-ons-indonesiers-betekent-15-augustus-niets~b68329aa/].
 
 - *15 augustus*, afhankelijk van de tijdzone 14 augustus, is V-J Day (Victory over Japan Day) footnote:[{vj}], de dag van de Japanse overgave. 
 
-- De formele datum van de overgave is *2 september*, waarop het bijbehorende document werd getekend in Tokyo Bay. Het [underline]#werkelijke moment# waarop de 2^de^ Wereld Oorlog tot een einde komt. 
+
+
+- De formele datum van de overgave is *2 september*, waarop het bijbehorende document werd getekend in Tokyo Bay. Het [underline]#werkelijke moment# waarop de 2^de^ Wereld Oorlog tot een einde komtfootnote:[Namens het Koninkrijk der Nederlanden ondertekende luitenant-admiraal Conrad Helfrich de capitulatieverklaring op de USS Missouri.  - https://www.veteraneninstituut.nl/verhalen-van-veteranen/vijf-dingen-misschien-nog-wist-indie-herdenking/]. 
 
 - Op *17 augustus* werd door Soekarno de Indonesische Republiek uitgeroepen onder druk van jonge revolutionairen. Uiteraard werd die niet door de nederlandse staat erkend. Voor Indonesië is dit de dag van de Onafhankelijkheid. Door de chaos die volgde wordt 17 augustus ook gezien als de dag waarop de 'Bersiap'footnote:[{bersiap}] startte. Deze periode duurde ongeveer tot het voorjaar van 1946, toen de Britten de Indonesische archipel verlieten en overlieten aan de hollanders. 
 
@@ -103,7 +111,7 @@ Voldoende grond voor een breed scala aan sentimenten. Nog los van niet uitbetaal
 // end::deel1[]
 
 .Updates
-_Als experiment heb ik data en documenten die voor vervolgen zullen worden gebruikt https://github.com/tjitjak/augustus[op Github geplaatst]_.
+_Als experiment heb ik data en documenten die voor vervolgen zullen worden gebruikt https://gitlab.com/tjitjak/augustus[op GitLab geplaatst]_.
 
 Het plan is om aanvullende documenten te maken met aantal slachtoffers voor en na augustus 1945.
 
