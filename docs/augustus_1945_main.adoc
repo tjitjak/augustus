@@ -1,6 +1,6 @@
 = Project Augustus - Slachtoffers voor en na augustus 1945 in Nederlands-Indië / Indonesië
 .
-2019-08-17
+2020-08-27
 :author: Roel Bazuin
 // custom meta
 // Opmaak
@@ -12,16 +12,16 @@
 //:leveloffset:
 :allow-uri-read:
 :description:  augustus herdenkingen
-:jbake-tags: blog,augustus
+:jbake-tags: augustus
 // Type 
 // :jbake-type: post
 :jbake-type: page
 // Status
 // :jbake-status: published
-:jbake-status: draft
+// :jbake-status: draft
 // - providing content date is equal to or past current date content will be considered published and included in the published collections
 :publish_date: 2019-08-17
-:revdate: 2019-09-02
+:publish_date: 2019-08-17
 //
 :doctype: book
 :toc: left
@@ -75,7 +75,6 @@ include::augustus_1945_army_victims.adoc[tag=deel2]
 // Burgerslachtoffers
 
 include::augustus_1945_civilian_victims.adoc[tag=deel3]
-
 
 //deel 4
 
